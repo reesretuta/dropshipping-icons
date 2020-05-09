@@ -1,0 +1,1 @@
+export const viewQuilt = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M64 270v140h114V102H64v168zm142 0h100v140H206zm0-168h100v140H206zm128 168h114.001v140H334zm0-168h114.001v140H334z'/>"]

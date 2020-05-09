@@ -1,0 +1,1 @@
+export const flag = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M496 112H320V40a24 24 0 00-24-24H104v256h120v56a24 24 0 0024 24h248v-16l-88-104 88-104z' class='cls-1'/>  <path d='M16 16h48v480H16z' class='cls-1' opacity='.25'/>"]

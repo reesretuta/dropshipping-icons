@@ -1,0 +1,1 @@
+export const elevator = ["512 512","  <g fill='currentColor'>    <path d='M256 40L96 176v40h320v-40L256 40z'/>    <path d='M96 336l160 136 160-136v-40H96v40z' opacity='.25'/>  </g>"]

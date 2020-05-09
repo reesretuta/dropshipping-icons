@@ -1,0 +1,1 @@
+export const video = ["512 512","  <path fill='currentColor' d='M360 177.09V72H16v368h344V326.91L480 376h16V128h-16l-120 49.09z' opacity='.25'/>  <path fill='currentColor' d='M360 326.91L480 376h16V128h-16l-120 49.09v149.82z'/>"]

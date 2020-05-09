@@ -1,0 +1,1 @@
+export const cilMediaPauseSquare = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>  <path d='M232,120H128V392H232ZM200,360H160V152h40Z' class='cls-1'/>  <path d='M384,120H280V392H384ZM352,360H312V152h40Z' class='cls-1'/>"]

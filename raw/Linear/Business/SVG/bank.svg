@@ -1,0 +1,20 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>bank</title>
+  <g>
+    <path class="cls-1" d="M247.7593,14.3579,16,125.9458V184H496V125.6382ZM464,152H48v-5.9458L248.2407,49.6421,464,146.3618Z"/>
+    <rect class="cls-1" x="48" y="408" width="416" height="32"/>
+    <rect class="cls-1" x="16" y="464" width="480" height="32"/>
+    <rect class="cls-1" x="56" y="216" width="32" height="160"/>
+    <rect class="cls-1" x="424" y="216" width="32" height="160"/>
+    <rect class="cls-1" x="328" y="216" width="32" height="160"/>
+    <rect class="cls-1" x="152" y="216" width="32" height="160"/>
+    <rect class="cls-1" x="240" y="216" width="32" height="160"/>
+  </g>
+</svg>

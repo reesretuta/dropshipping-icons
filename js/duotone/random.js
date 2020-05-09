@@ -1,0 +1,1 @@
+export const random = ["512 512","  <path fill='currentColor' d='M496 400l-104-88v64.78h-44.3L115.7 80H16v48h76.3l232 296.78H392V488l104-88z' opacity='.25'/>  <path fill='currentColor' d='M496 112L392 24v63.22h-67.7L92.3 384H16v48h99.7l232-296.78H392V200l104-88z'/>"]

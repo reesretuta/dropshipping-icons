@@ -1,0 +1,1 @@
+export const arrowThickCircleRight = ["512 512","  <path fill='currentColor' d='M256 16A240 240 0 0086.294 425.706 240 240 0 00425.706 86.294 238.429 238.429 0 00256 16z' opacity='.25'/>  <path fill='currentColor' d='M272 384l-.004-80H352v-96h-80.009l-.004-80h-16.41L127.381 255.849l127.99 128.142L272 384z'/>"]

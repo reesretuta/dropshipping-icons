@@ -1,0 +1,1 @@
+export const window = ["512 512","  <path fill='currentColor' d='M432 432V40H80v392zM232 240v136H128V240zm-104-48V88h104v104zm152 184V240h104v136zm104-184H280V88h104z'/>  <path fill='currentColor' d='M40 432v48h432v-48' opacity='.25'/>"]

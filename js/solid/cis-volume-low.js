@@ -1,0 +1,1 @@
+export const cisVolumeLow = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='152 136 16 136 16 376 152 376 256 496 288 496 288 16 256 16 152 136' class='cls-1'/>  <path d='M320,160v48a48,48,0,0,1,0,96v48a96,96,0,0,0,0-192Z' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const noteAdd = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M306 480h6l168-168v-6H306v174z' class='cls-1'/>  <path fill='currentColor' d='M40 40v440h230V270h210V40H40z' opacity='.25'/>  <path d='M197 96h-42v67H88v42h67v67h42v-67h67v-42h-67V96z' class='cls-1'/>"]

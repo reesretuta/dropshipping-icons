@@ -1,0 +1,1 @@
+export const ethernet = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M136 232h48v48h-48zm96 0h48v48h-48zm96 0h48v48h-48z' class='cls-2' opacity='.25'/>  <path d='M66.91 256l89.078-136H98.607L9.535 255.992 98.566 392h57.37L66.91 256zm378.18 0l-89.078 136h57.381l89.072-135.992L413.434 120h-57.37l89.026 136z' class='cls-2'/>"]

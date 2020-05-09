@@ -1,0 +1,1 @@
+export const print = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor;opacity:.25}    </style>  </defs>  <path d='M108 16h296v96H108z' class='cls-1'/>  <path fill='currentColor' d='M108 306H70v-32h362v32h-36v94h100V208a64 64 0 00-64-64H80a64 64 0 00-64 64v192h92v-94zm292-106h32v32h-32z'/>  <path d='M144 312h216v184H144z' class='cls-1'/>"]

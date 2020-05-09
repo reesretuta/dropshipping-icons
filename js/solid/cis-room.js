@@ -1,0 +1,1 @@
+export const cisRoom = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='416 416 416 80 316 80 316 128 368 128 368 464 496 464 496 416 416 416' class='cls-1'/>  <path d='M48,456l232,32V24L48,64ZM198,224h36v80H198Z' class='cls-1'/>"]

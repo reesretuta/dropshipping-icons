@@ -1,0 +1,1 @@
+export const copy = ["512 512","  <path fill='currentColor' d='M318 454H90V162h34v-42H48v376h312v-76h-42v34zm2-422h-6v134h134v-6L320 32z' opacity='.25'/>  <path fill='currentColor' d='M278 32H160v352h288V202H278V32z'/>"]

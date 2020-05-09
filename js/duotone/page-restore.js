@@ -1,0 +1,1 @@
+export const pageRestore = ["512 512","  <path fill='currentColor' d='M328 32H64v448h392V160L328 32z' opacity='.25'/>  <path fill='currentColor' d='M178.625 226.625a93.983 93.983 0 11-4.06 100.362l-31.163 18.026a130.02 130.02 0 109.463-144.149L112 160v112h112z'/>"]

@@ -1,0 +1,17 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>call-merge</title>
+  <path class="cls-1" d="M56.0147,32h400a24,24,0,0,1,24,24V456a24,24,0,0,1-24,24h-400a24,24,0,0,1-24-24V56a24,24,0,0,1,24-24Z"/>
+  <polygon class="cls-2" points="275.112 159.71 331.079 215.677 359.363 187.393 254.488 82.518 148.987 188.018 177.271 216.302 235.112 158.461 235.112 274.706 125.077 384.444 153.323 412.767 275.112 291.305 275.112 159.71"/>
+  <rect class="cls-2" x="299.4" y="308.3141" width="39.9999" height="105.7829" transform="translate(-161.8608 331.6445) rotate(-45)"/>
+</svg>

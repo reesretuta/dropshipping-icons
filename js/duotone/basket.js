@@ -1,0 +1,1 @@
+export const basket = ["512 512","  <path fill='currentColor' d='M440.668 184L391.674 16h-50l48.995 168H121.331l48.995-168h-50L71.332 184H16v79.745h480V184h-55.332z' opacity='.25'/>  <path fill='currentColor' d='M53.822 305.745H21.201L58.856 496h394.261l38.051-190.255H53.822z'/>"]

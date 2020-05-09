@@ -1,0 +1,1 @@
+export const callToAction = ["512 512","  <rect width='480' height='432' x='16' y='40' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M104 312h304v64H104z'/>"]

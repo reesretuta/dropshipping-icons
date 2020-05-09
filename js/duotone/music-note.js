@@ -1,0 +1,1 @@
+export const musicNote = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path fill='currentColor' d='M216 381.19h64V128l-64 12.8v240.39z' opacity='.25'/>  <path d='M216 36.8L80 64v104l136-27.2 64-12.8V24l-64 12.8z' class='cls-2'/>  <ellipse cx='332.32' cy='384' class='cls-2' rx='116.32' ry='104'/>"]

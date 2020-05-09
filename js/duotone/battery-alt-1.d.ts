@@ -1,0 +1,1 @@
+export declare const batteryAlt1: string[];

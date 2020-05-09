@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill:currentColor;
+      }
+    </style>
+  </defs>
+  <title>chevron-right-alt</title>
+  <polygon class="cls-1" points="190.627 462.627 145.373 417.373 306.745 256 145.373 94.627 190.627 49.373 397.255 256 190.627 462.627"/>
+</svg>

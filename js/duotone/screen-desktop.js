@@ -1,0 +1,1 @@
+export const screenDesktop = ["512 512","  <path fill='currentColor' d='M232 376v56l-72 32v32h192v-32l-72-32v-56h-48z' opacity='.25'/>  <path fill='currentColor' d='M280 376h192a24.027 24.027 0 0024-24V56a24.027 24.027 0 00-24-24H40a24.027 24.027 0 00-24 24v296a24.027 24.027 0 0024 24h240z'/>"]

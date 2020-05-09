@@ -1,0 +1,12 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>call-merge</title>
+  <polygon class="cls-1" points="280.368 297.96 280.368 144.084 345.407 209.123 379.348 175.182 255.632 51.466 131.182 175.917 165.123 209.858 232.368 142.613 232.368 278.04 103.052 407.007 136.948 440.993 280.368 297.96"/>
+  <rect class="cls-1" x="307.9998" y="317.7746" width="48.0004" height="124.4508" transform="translate(-171.46 346.0589) rotate(-45)"/>
+</svg>

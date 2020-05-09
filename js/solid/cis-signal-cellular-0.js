@@ -1,0 +1,1 @@
+export const cisSignalCellular0 = ["512 512","  <path fill='currentColor' d='M16,496H496V16H446.0591L16,446.0586ZM448,81.9414V448H81.9409Z'/>"]

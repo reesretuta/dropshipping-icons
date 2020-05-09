@@ -1,0 +1,1 @@
+export const cisMediaStop = ["512 512","  <rect width='320' height='320' x='96' y='96' fill='currentColor' rx='8'/>"]

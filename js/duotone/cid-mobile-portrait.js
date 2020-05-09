@@ -1,0 +1,1 @@
+export const cidMobilePortrait = ["512 512","  <rect width='224' height='304' x='144' y='104' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M376,16H136A40.0455,40.0455,0,0,0,96,56V456a40.0455,40.0455,0,0,0,40,40H376a40.0455,40.0455,0,0,0,40-40V56A40.0455,40.0455,0,0,0,376,16Zm-8,392H144V104H368Z'/>"]

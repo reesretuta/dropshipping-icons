@@ -1,0 +1,1 @@
+export const moodBad = ["512 512","  <path fill='currentColor' d='M480 169.7A240.218 240.218 0 00169.7 32C79.794 66.661 16 153.875 16 256a240 240 0 10464-86.3z' opacity='.25'/>  <path fill='currentColor' d='M148 196h48v48h-48zm168 0h48v48h-48zm-60 84a104 104 0 00-104 104h208a104 104 0 00-104-104z'/>"]

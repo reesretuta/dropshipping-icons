@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>text-direction-rtl</title>
+  <g>
+    <polygon class="cls-1" points="496 400 86.627 400 131.313 355.313 108.687 332.687 25.373 416 108.687 499.313 131.313 476.687 86.627 432 496 432 496 400"/>
+    <path class="cls-1" d="M220,240h36V368h96V72h56V40H220a100,100,0,0,0,0,200ZM320,72V336H288V72ZM220,72h36V208H220a68,68,0,0,1,0-136Z"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+export const lineWeight = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='448' height='448' x='32' y='32' class='cls-2' opacity='.25' rx='24'/>  <path d='M76 412h360v24H76zm0-78h360v42H76zm0-114h360v72H76zm0-144h360v102H76z' class='cls-2'/>"]

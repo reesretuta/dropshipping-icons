@@ -1,0 +1,1 @@
+export const artTrack = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M344 112h152v48H344zm0 120h152v48H344zm0 112h96v48h-96z' class='cls-1'/>  <path fill='currentColor' d='M200 112H16v288h288V112H200z' opacity='.25'/>  <path d='M200 112H16v184a184 184 0 00184-184z' class='cls-1'/>"]

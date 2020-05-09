@@ -1,0 +1,1 @@
+export const cidVideo = ["512 512","  <polygon fill='currentColor' points='360 177.09 360 72 16 72 16 440 360 440 360 326.91 480 376 496 376 496 128 480 128 360 177.09' opacity='.25'/>  <polygon fill='currentColor' points='360 326.91 480 376 496 376 496 128 480 128 360 177.09 360 326.91'/>"]

@@ -1,0 +1,1 @@
+export const cisArchive = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='416' height='70' x='48' y='16' class='cls-1'/>  <polygon points='324 168 188 168 165 122 48 122 48 286 464 286 464 122 347 122 324 168' class='cls-1'/>  <polygon points='320 376 192 376 165 322 48 322 48 496 464 496 464 322 347 322 320 376' class='cls-1'/>"]

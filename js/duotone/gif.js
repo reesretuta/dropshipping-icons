@@ -1,0 +1,1 @@
+export const gif = ["512 512","  <rect width='480' height='376' x='16' y='64' fill='currentColor' opacity='.25' rx='16'/>  <path fill='currentColor' d='M112 384.022h93.15V234H144v36h25.15v78.022H114v-192h86v-36h-88c-18.748 0-34 15.508-34 34.57V349.45c0 19.063 15.252 34.572 34 34.572zM240.957 120h36v264h-36zM350 270h58v-36h-58v-77.979h82v-36H314V384h36V270z'/>"]

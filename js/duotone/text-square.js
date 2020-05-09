@@ -1,0 +1,1 @@
+export const textSquare = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M112 176h32v-32h80v224h-32v32h128v-32h-32V144h80v32h32v-64H112v64z'/>"]

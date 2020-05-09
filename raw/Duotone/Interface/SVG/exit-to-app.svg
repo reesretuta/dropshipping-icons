@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>exit-to-app</title>
+  <path class="cls-1" d="M456,32H56A24,24,0,0,0,32,56V456a24,24,0,0,0,24,24H456a24,24,0,0,0,24-24V56A24,24,0,0,0,456,32Z"/>
+  <polygon class="cls-2" points="237.661 110.718 203.72 144.66 286.06 227 32 227 32 275 286.058 275 203.72 357.338 237.661 391.279 377.941 250.999 237.661 110.718"/>
+</svg>

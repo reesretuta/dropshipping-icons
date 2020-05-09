@@ -1,0 +1,1 @@
+export const commentSquareImage = ["512 512","  <path fill='currentColor' d='M456 32H56a24 24 0 00-24 24v272a24 24 0 0024 24h332.767l69.522 128H480V56a24 24 0 00-24-24z' opacity='.25'/>  <path fill='currentColor' d='M96 293h320v-48.994l-80-76.571-56 52.571-81.143-86.857L96 244.006V293zM78 80h42v42H78z'/>"]

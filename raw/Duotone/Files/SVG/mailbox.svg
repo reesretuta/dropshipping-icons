@@ -1,0 +1,22 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill:currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>mailbox</title>
+  <path class="cls-1" d="M472,192H176v64H95V192H40a8,8,0,0,0-8,8V401H480V200A8,8,0,0,0,472,192Z"/>
+  <g class="cls-2">
+    <path class="cls-1" d="M32,401v71a8,8,0,0,0,8,8H472a8,8,0,0,0,8-8V401Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="95" y="32" width="40" height="224"/>
+  </g>
+  <rect class="cls-1" x="135" y="32" width="128" height="96"/>
+</svg>

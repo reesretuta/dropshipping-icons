@@ -1,0 +1,1 @@
+export const inbox = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path fill='none' d='M192 384h120l48-72H152l40 72z'/>  <path d='M360 312l-48 72H192l-40-72H32v183.998h448V312H360z' class='cls-2'/>  <path d='M32 16v296h48V144h352v168h48V16H32z' class='cls-2' opacity='.25'/>"]

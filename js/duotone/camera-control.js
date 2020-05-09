@@ -1,0 +1,1 @@
+export const cameraControl = ["512 512","  <circle cx='256' cy='256' r='72' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M252.59 16L160 120v8h192v-8L259.41 16h-6.82zM160 392l92.59 104h6.82L352 392v-8H160v8zm232-232h-8v192h8l104-92.59v-6.82L392 160zM16 252.59v6.82L120 352h8V160h-8L16 252.59z'/>"]

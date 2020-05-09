@@ -1,0 +1,1 @@
+export const images = ["512 512","  <path fill='currentColor' d='M344 448H64V168h56v-48H16v376h376V392h-48v56z' opacity='.25'/>  <path fill='currentColor' d='M120 16v376h376V16zm328 140.77l-45.923-45.924-51.23 51.23L448 259.232v47.692L254.846 113.769 168 200.615V64h280z'/>"]

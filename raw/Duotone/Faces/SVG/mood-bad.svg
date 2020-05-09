@@ -1,0 +1,18 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>mood-bad</title>
+  <path class="cls-1" d="M480,169.7A240.2175,240.2175,0,0,0,169.7,32C79.7939,66.6612,16,153.8745,16,256a240,240,0,1,0,464-86.3Z"/>
+  <rect class="cls-2" x="148" y="196" width="48" height="48"/>
+  <rect class="cls-2" x="316" y="196" width="48" height="48"/>
+  <path class="cls-2" d="M256,280A104,104,0,0,0,152,384H360A104,104,0,0,0,256,280Z"/>
+</svg>

@@ -1,0 +1,1 @@
+export const cilBold = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>  <path d='M320,400a79.9911,79.9911,0,0,0,21.598-157.0137A79.9562,79.9562,0,0,0,280,112H112v32h40V368H112v32ZM208,368V272h88a48,48,0,0,1,0,96Zm48-224a48,48,0,0,1,0,96H208V144h48Z' class='cls-1'/>"]

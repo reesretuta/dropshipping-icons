@@ -1,0 +1,1 @@
+export const cidFile = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <polygon points='456 202 286 202 286 32 64 32 64 480 456 480 456 202' class='cls-2' opacity='.25'/>  <polygon points='456 166 456 160 328 32 322 32 322 166 456 166' class='cls-2'/>"]

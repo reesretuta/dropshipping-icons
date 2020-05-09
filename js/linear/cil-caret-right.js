@@ -1,0 +1,1 @@
+export const cilCaretRight = ["512 512","  <path fill='currentColor' d='M148.0918,496h-36.45V16.333H146.19L416,256.2861Zm-4.45-439.1084v400.15L367.9287,256.3584Z'/>"]

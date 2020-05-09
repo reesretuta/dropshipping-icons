@@ -1,0 +1,1 @@
+export const mobileLandscape = ["512 512","  <path fill='currentColor' d='M104 144h304v224H104z' opacity='.25'/>  <path fill='currentColor' d='M456 96H56a40.045 40.045 0 00-40 40v240a40.045 40.045 0 0040 40h400a40.045 40.045 0 0040-40V136a40.045 40.045 0 00-40-40zm-48 272H104V144h304z'/>"]

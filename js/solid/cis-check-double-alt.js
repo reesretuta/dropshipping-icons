@@ -1,0 +1,1 @@
+export const cisCheckDoubleAlt = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='362.039' height='64.001' x='170.981' y='288' class='cls-1' transform='rotate(-45 352 320)'/>  <polygon points='377.567 81.18 164.192 290.938 54.627 181.373 9.373 226.627 163.808 381.063 422.433 126.82 377.567 81.18' class='cls-1'/>"]

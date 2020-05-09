@@ -1,0 +1,1 @@
+export const cidMediaPlaySquare = ["512 512","  <rect width='480' height='480' x='16' y='16' fill='currentColor' opacity='.25'/>  <polygon fill='currentColor' points='352 252 200 128 176.93 128 176.93 376 200 376 352 252'/>"]

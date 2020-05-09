@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>comment-square-check</title>
+  <path class="cls-1" d="M456,32H56A24,24,0,0,0,32,56V328a24,24,0,0,0,24,24H388.7666l69.522,128H480V56A24,24,0,0,0,456,32Z"/>
+  <polygon class="cls-2" points="370.85 142.85 341.15 113.15 241.698 212.604 190.85 161.754 161.15 191.453 241.698 272 370.85 142.85"/>
+</svg>

@@ -1,0 +1,1 @@
+export const widgets = ["512 512","  <path fill='currentColor' d='M16 312h184v184H16zm0-248h184v184H16zm256 248h184v184H272z' opacity='.25'/>  <path fill='currentColor' d='M233.373 156.52L363.481 26.411l130.107 130.107-130.107 130.108z'/>"]

@@ -1,0 +1,1 @@
+export const cisViewQuilt = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='302' height='174' x='194' y='64' class='cls-1'/>  <rect width='116' height='174' x='194' y='274' class='cls-1'/>  <rect width='142' height='384' x='16' y='64' class='cls-1'/>  <rect width='150' height='174' x='346' y='274' class='cls-1'/>"]

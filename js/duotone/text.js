@@ -1,0 +1,1 @@
+export const text = ["512 512","  <path fill='currentColor' d='M136 168v-48h72v280h-40v32h176v-32h-40V120h72v48h64V88H72v80h64z'/>"]

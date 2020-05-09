@@ -1,0 +1,1 @@
+export const cidFolder = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M472,127H16V447a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V151A24,24,0,0,0,472,127Z' class='cls-2' opacity='.25'/>  <path d='M207.3649,40H39A23,23,0,0,0,16,63v64H258.9483L228.5956,54.1538A23,23,0,0,0,207.3649,40Z' class='cls-2'/>"]

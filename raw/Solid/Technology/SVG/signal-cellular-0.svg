@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>signal-cellular-0</title>
+  <path class="cls-1" d="M16,496H496V16H446.0591L16,446.0586ZM448,81.9414V448H81.9409Z"/>
+</svg>

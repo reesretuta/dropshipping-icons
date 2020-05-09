@@ -1,0 +1,1 @@
+export const bank = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M247.759 14.358L16 125.946V184h480v-58.362L247.759 14.358zM16 432h480v64H16z' class='cls-1'/>  <path d='M40 224h64v168H40zm368 0h64v168h-64zm-245.333 0h64v168h-64zm122.667 0h64v168h-64z' class='cls-1' opacity='.25'/>"]

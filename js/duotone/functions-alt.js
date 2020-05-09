@@ -1,0 +1,1 @@
+export const functionsAlt = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M130.336 173.724L206.734 256l-76.398 82.276V411h227.328v-48H178.336v-5.875L272.237 256l-93.901-101.125V149h179.328v-48H130.336v72.724z'/>"]

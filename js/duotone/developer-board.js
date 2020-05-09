@@ -1,0 +1,1 @@
+export const developerBoard = ["512 512","  <path fill='currentColor' d='M496 160v-48h-48V64a16 16 0 00-16-16H32a16 16 0 00-16 16v392a16 16 0 0016 16h400a16 16 0 0016-16v-40h48v-48h-48v-80h48v-48h-48v-80z' opacity='.25'/>  <path fill='currentColor' d='M88 120h112v80H88zm160 0h120v144H248zm0 192h120v96H248zM88 248h112v160H88z'/>"]

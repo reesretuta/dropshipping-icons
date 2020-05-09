@@ -1,0 +1,1 @@
+export const bell = ["512 512","  <path fill='currentColor' d='M392 264v-88a136 136 0 00-272 0v88l-45.603 84.19A8 8 0 0081.432 360h349.136a8 8 0 007.035-11.81z'/>  <path fill='currentColor' d='M256 464a72 72 0 0072-72H184a72 72 0 0072 72z' opacity='.25'/>"]

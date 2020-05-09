@@ -1,0 +1,1 @@
+export const batteryAlert = ["512 512","  <path fill='currentColor' d='M424.01 352h71.98V160h-71.98V88h-408v336h408v-72z' opacity='.25'/>  <path fill='currentColor' d='M200 325h40v40h-40zm44-178h-48v79.85l6 74.15h36l6-74.15V147z'/>"]

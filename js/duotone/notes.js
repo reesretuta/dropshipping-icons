@@ -1,0 +1,1 @@
+export const notes = ["512 512","  <path fill='currentColor' d='M48 64h416v384H48z' opacity='.25'/>  <path fill='currentColor' d='M112 147h288v42H112zm0 88h288v42H112zm0 88h152v42H112z'/>"]

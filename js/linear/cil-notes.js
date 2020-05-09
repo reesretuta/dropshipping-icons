@@ -1,0 +1,1 @@
+export const cilNotes = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='288' height='32' x='112' y='152' class='cls-1'/>  <rect width='288' height='32' x='112' y='240' class='cls-1'/>  <rect width='152' height='32' x='112' y='328' class='cls-1'/>  <path d='M32,48V464H480V48ZM448,432H64V80H448Z' class='cls-1'/>"]

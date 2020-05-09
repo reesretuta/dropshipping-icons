@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>arrow-circle-right</title>
+  <circle class="cls-1" cx="256" cy="256" r="240"/>
+  <polygon class="cls-2" points="235.851 343.518 265.55 373.217 382.766 256 265.55 138.784 235.851 168.482 302.369 235 127.887 235 127.887 276.999 302.37 276.999 235.851 343.518"/>
+</svg>

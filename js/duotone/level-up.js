@@ -1,0 +1,1 @@
+export const levelUp = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M32 32h448v448H32z' class='cls-2' opacity='.25'/>  <path d='M163.029 171.029l33.942 33.942L240 161.941V332H114v48h174V161.941l43.029 43.03 33.942-33.942L264 70.059l-100.971 100.97z' class='cls-2'/>"]

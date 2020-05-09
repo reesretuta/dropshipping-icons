@@ -1,0 +1,1 @@
+export const doubleQuoteSansRight = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M289 202.348V377h155V68h-13.478L289 202.348zm-221 0V377h155V68h-13.478L68 202.348z'/>"]

@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>boat-alt</title>
+  <g>
+    <polygon class="cls-1" points="121.305 112 160.98 112 193.305 112 181.877 32 77.552 32 88.98 112 121.305 112"/>
+    <polygon class="cls-1" points="265.305 112 304.98 112 337.305 112 325.877 32 221.552 32 232.98 112 265.305 112"/>
+    <path class="cls-1" d="M16,248V448H443.7266L496,282.4658V248ZM72,360V318h42v42Zm88,0V318h42v42Zm88,0V318h42v42Zm130,0H336V318h42Z"/>
+    <path class="cls-1" d="M426.2444,216l-15.095-50.085-.2832-.8515A32.0989,32.0989,0,0,0,380.793,144H48v72Z"/>
+  </g>
+</svg>

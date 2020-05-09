@@ -1,0 +1,1 @@
+export const yenCircle = ["512 512","  <circle cx='256' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M355.53 133.95l-39.06-27.9L256 190.709l-60.47-84.659-39.06 27.9L226.506 232H176v40h160v-40h-50.506l70.036-98.05zM176 352h56v48h48v-48h56v-40H176v40z'/>"]

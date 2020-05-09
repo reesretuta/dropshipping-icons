@@ -1,0 +1,1 @@
+export const cilMenu = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='352' height='32' x='80' y='96' class='cls-1'/>  <rect width='352' height='32' x='80' y='240' class='cls-1'/>  <rect width='352' height='32' x='80' y='384' class='cls-1'/>"]

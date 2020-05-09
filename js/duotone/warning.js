@@ -1,0 +1,1 @@
+export const warning = ["512 512","  <path fill='currentColor' d='M272 32h-32L16 440v40h480v-40L272 32z' opacity='.25'/>  <path fill='currentColor' d='M236 376h40v40h-40zm38-40l14-72v-80h-64v80l14 72h36z'/>"]

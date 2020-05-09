@@ -1,0 +1,1 @@
+export const toilet = ["512 512","  <path fill='currentColor' d='M48 272c0 88.365 71.635 144 160 144h72l-16 80h168V256H48z'/>  <path fill='currentColor' d='M416 16l-56.276 204h80l35.002-126.88A60.92 60.92 0 00416 16z' opacity='.25'/>"]

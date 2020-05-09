@@ -1,0 +1,1 @@
+export const cisEthernetAlt = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='240' height='67' x='136' y='32' class='cls-1'/>  <polygon points='277 248 235 248 235 141 136 141 136 328 232 328 232 496 280 496 280 328 376 328 376 141 277 141 277 248' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const calendarViewDay = ["512 512","  <path fill='currentColor' d='M16 448a24.027 24.027 0 0024 24h432a24.027 24.027 0 0024-24v-64H16zm480-336a24.027 24.027 0 00-24-24h-72V16h-64v72H176V16h-64v72H40a24.027 24.027 0 00-24 24v72h480z' opacity='.25'/>  <path fill='currentColor' d='M496 232H0v104h512V232h-16z'/>"]

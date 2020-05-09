@@ -1,0 +1,18 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>indent-decrease</title>
+  <g>
+    <rect class="cls-1" x="72" y="63.9976" width="424" height="32"/>
+    <rect class="cls-1" x="200" y="151.9976" width="296" height="32"/>
+    <rect class="cls-1" x="200" y="239.9976" width="296" height="32"/>
+    <rect class="cls-1" x="200" y="327.9976" width="296" height="32"/>
+    <rect class="cls-1" x="72" y="415.9976" width="424" height="32"/>
+    <path class="cls-1" d="M160,144.9092,4.4727,256,160,367.0908Zm-32,160L59.5273,256,128,207.0913Z"/>
+  </g>
+</svg>

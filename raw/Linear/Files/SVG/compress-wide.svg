@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>compress-wide</title>
+  <g>
+    <polygon class="cls-1" points="144 184.654 16 184.654 16 216.654 176 216.654 176 16.654 144 16.654 144 184.654"/>
+    <polygon class="cls-1" points="368 184.654 368 16.654 336 16.654 336 216.654 496 216.654 496 184.654 368 184.654"/>
+    <polygon class="cls-1" points="336 496.654 368 496.654 368 328.654 496 328.654 496 296.654 336 296.654 336 496.654"/>
+    <polygon class="cls-1" points="16 328.654 144 328.654 144 496.654 176 496.654 176 296.654 16 296.654 16 328.654"/>
+  </g>
+</svg>

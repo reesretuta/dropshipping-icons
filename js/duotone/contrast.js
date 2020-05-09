@@ -1,0 +1,1 @@
+export const contrast = ["512 512","  <path fill='currentColor' d='M256 18v48a192 192 0 110 384v48c132.548 0 240-107.452 240-240S388.548 18 256 18z' opacity='.25'/>  <path fill='currentColor' d='M16 258c0 132.548 107.452 240 240 240V18C123.452 18 16 125.452 16 258z'/>"]

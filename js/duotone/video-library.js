@@ -1,0 +1,1 @@
+export const videoLibrary = ["512 512","  <path fill='currentColor' d='M480 56l-80 35V16H136v120h192v156h72v-87l80 35h16V56h-16z'/>  <path fill='currentColor' d='M16 168h280v280H16z' opacity='.25'/>"]

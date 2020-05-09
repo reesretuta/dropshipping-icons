@@ -1,0 +1,1 @@
+export declare const cidSignalCellularOff_1: string[];

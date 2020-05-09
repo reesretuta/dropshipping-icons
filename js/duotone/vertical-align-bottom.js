@@ -1,0 +1,1 @@
+export const verticalAlignBottom = ["512 512","  <path fill='currentColor' d='M16 432h480v64H16z' opacity='.25'/>  <path fill='currentColor' d='M352 296v-6.646l-64 .286V16h-64v273.925l-64 .285V296l96 112 96-112z'/>"]

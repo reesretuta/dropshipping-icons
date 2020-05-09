@@ -1,0 +1,1 @@
+export const videogame = ["512 512","  <path fill='currentColor' d='M16 104h480v272H16z' opacity='.25'/>  <path fill='currentColor' d='M320 256h48v48h-48zm72-80h48v48h-48zM112 304h48v-40h40v-48h-40v-40h-48v40H72v48h40v40z'/>"]

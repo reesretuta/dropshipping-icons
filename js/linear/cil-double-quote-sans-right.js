@@ -1,0 +1,1 @@
+export const cilDoubleQuoteSansRight = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M457.6,16,280,185.1431V416H496V16ZM464,384H312V198.8569L464,54.0952Z' class='cls-1'/>  <path d='M16,185.1431V416H232V16H193.6ZM200,384H48V198.8569L200,54.0952Z' class='cls-1'/>"]

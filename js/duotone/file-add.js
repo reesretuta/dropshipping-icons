@@ -1,0 +1,1 @@
+export const fileAdd = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M456 166v-6L328 32h-6v134h134z' class='cls-1'/>  <path fill='currentColor' d='M286 202V32H64v448h392V202H286z' opacity='.25'/>  <path d='M187 416h42v-59h59v-42h-59v-59h-42v59h-59v42h59v59z' class='cls-1'/>"]

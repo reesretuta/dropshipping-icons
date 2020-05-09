@@ -1,0 +1,1 @@
+export const cloudy = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M140.69 265.38a124.69 124.69 0 11124.69-124.69 124.83 124.83 0 01-124.69 124.69z' class='cls-2' opacity='.25'/>  <path d='M496 384a96 96 0 00-96-96 144 144 0 00-288 0 96 96 0 000 192h296v-.33A96 96 0 00496 384z' class='cls-2'/>"]

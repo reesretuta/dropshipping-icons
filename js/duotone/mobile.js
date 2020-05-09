@@ -1,0 +1,1 @@
+export const mobile = ["512 512","  <path fill='none' d='M238 414h36v36h-36z'/>  <path fill='currentColor' d='M144 88h224v280H144z' opacity='.25'/>  <path fill='currentColor' d='M376 16H136a40.045 40.045 0 00-40 40v400a40.045 40.045 0 0040 40h240a40.045 40.045 0 0040-40V56a40.045 40.045 0 00-40-40zm-8 352H144V88h224zm-94 82h-36v-36h36z'/>"]

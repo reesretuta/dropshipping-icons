@@ -1,0 +1,1 @@
+export const volumeLow = ["512 512","  <path fill='currentColor' d='M152 136H16v240h136l104 120h32V16h-32L152 136z'/>  <path fill='currentColor' d='M320 160v48a48 48 0 010 96v48a96 96 0 000-192z' opacity='.25'/>"]

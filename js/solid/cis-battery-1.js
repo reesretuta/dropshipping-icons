@@ -1,0 +1,1 @@
+export const cisBattery1 = ["512 512","  <path fill='currentColor' d='M424,88H16V424H424V352h71.9858V160H424Zm23.9858,120v96H376v72H128V136H376v72h71.9858Z'/>"]

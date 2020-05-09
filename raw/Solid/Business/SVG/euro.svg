@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>euro</title>
+  <g>
+    <path class="cls-1" d="M316,72c-76.6295,0-142.6874,46.09-171.9354,112H104v56H344V184H218.09A123.8538,123.8538,0,0,1,316,136h68V72Z"/>
+    <path class="cls-1" d="M218.09,336H344V280H104v56h40.0646C173.3126,401.91,239.3705,448,316,448h68V384H316A123.8538,123.8538,0,0,1,218.09,336Z"/>
+  </g>
+</svg>

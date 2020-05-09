@@ -1,0 +1,1 @@
+export const door = ["512 512","  <path fill='currentColor' d='M112 448H16v48h480v-48H112z' opacity='.25'/>  <path fill='currentColor' d='M112 64v384h288V64zm242 264h-36v-82h36z'/>"]

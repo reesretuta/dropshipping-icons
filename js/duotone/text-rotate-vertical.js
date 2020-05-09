@@ -1,0 +1,1 @@
+export const textRotateVertical = ["512 512","  <path fill='currentColor' d='M306.228 64L192.544 352h68.806l22.105-56h121.09l22.105 56h68.806L381.77 64zm2.49 168L344 142.62 379.281 232z'/>  <path fill='currentColor' d='M125.572 386.325V40h-42v346.325H24v5.018L104.657 472 168 408.657l16.572-16.572v-5.76h-59z' opacity='.25'/>"]

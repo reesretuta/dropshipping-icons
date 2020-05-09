@@ -1,0 +1,1 @@
+export const cidLaptop = ["512 512","  <path fill='currentColor' d='M464,336V111a30,30,0,0,0-30-30H78a30,30,0,0,0-30,30V336H16v64.05L48,432H464l32-31.95V336Z' opacity='.25'/>  <rect width='320' height='207' x='96' y='129' fill='currentColor'/>"]

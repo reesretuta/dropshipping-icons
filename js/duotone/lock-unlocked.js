@@ -1,0 +1,1 @@
+export const lockUnlocked = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M384 200v-56a128 128 0 00-235.86-68.94l40.42 25.88A80 80 0 01336 144v56z' class='cls-1'/>  <path fill='currentColor' d='M384 200H80v120a176 176 0 00176 176 176 176 0 00176-176V200z' opacity='.25'/>  <path d='M232 280h48v96h-48z' class='cls-1'/>"]

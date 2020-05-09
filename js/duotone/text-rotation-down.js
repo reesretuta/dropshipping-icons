@@ -1,0 +1,1 @@
+export const textRotationDown = ["512 512","  <path fill='currentColor' d='M176 125.35l48 18.947v127.406l-48 18.947v68.805l288-113.683v-75.543L176 56.544zm112 44.21L385.38 208 288 246.44z'/>  <path fill='currentColor' d='M125.572 384V40h-42v346.325H24v5.018L104.657 472l79.915-79.915v-5.76h-59V384z' opacity='.25'/>"]

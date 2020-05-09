@@ -1,0 +1,1 @@
+export declare const signalCellular1: string[];

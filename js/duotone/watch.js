@@ -1,0 +1,1 @@
+export const watch = ["512 512","  <path fill='currentColor' d='M354.592 127.55L336 16H176l-18.592 111.55a161.639 161.639 0 01197.184 0zm-197.184 256.9L176 496h160l18.591-111.55a161.64 161.64 0 01-197.183 0z' opacity='.25'/>  <circle cx='256' cy='256' r='126' fill='currentColor'/>"]

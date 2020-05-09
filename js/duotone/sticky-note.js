@@ -1,0 +1,1 @@
+export const stickyNote = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M306 480h6l168-168v-6H306v174z' class='cls-1'/>  <path d='M480 270V40H40v440h230V270h210z' class='cls-1' opacity='.25'/>"]

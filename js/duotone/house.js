@@ -1,0 +1,1 @@
+export const house = ["512 512","  <path fill='currentColor' d='M36 219v275h92V344h96v150h262V219zm356 181h-80V272h80z'/>  <path fill='currentColor' d='M486 219L278.353 24.38a32 32 0 00-44.272.453L36 219z' opacity='.25'/>"]

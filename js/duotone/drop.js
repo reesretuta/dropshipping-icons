@@ -1,0 +1,1 @@
+export const drop = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M265.685 90.8a11.5 11.5 0 00-19.37 0l-89.561 139.887a123.057 123.057 0 10198.492 0z'/>"]

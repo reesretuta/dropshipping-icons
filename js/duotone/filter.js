@@ -1,0 +1,1 @@
+export const filter = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M105 125.924l119 129.018V411h24.646L285 362.726V254.813l114-129.018V101H105v24.924z'/>"]

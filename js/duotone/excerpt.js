@@ -1,0 +1,1 @@
+export const excerpt = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M59 103h394v42H59zm0 88h262v42H59zm0 89h394v42H59zm0 88h42v42H59zm220 0h42v42h-42zm-110 0h42v42h-42z'/>"]

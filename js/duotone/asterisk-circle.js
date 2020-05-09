@@ -1,0 +1,1 @@
+export const asteriskCircle = ["512 512","  <circle cx='256.6' cy='256.64' r='239.4' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M232 390.61h48v-92.98l93.05 53.87v-55.46L303.9 256l69.15-40.04V160.5L280 214.37v-92.98h-48v92.98l-93.05-53.87v55.46L208.1 256l-69.15 40.04v55.46L232 297.63v92.98z'/>"]

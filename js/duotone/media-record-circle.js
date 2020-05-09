@@ -1,0 +1,1 @@
+export const mediaRecordCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.92' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M256 160a96 96 0 00-96 96 96 96 0 00192 0 96 96 0 00-96-96z'/>"]

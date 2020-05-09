@@ -1,0 +1,1 @@
+export const movie = ["512 512","  <path fill='currentColor' d='M363.14 376v-96H148.85v144h214.29v-48zm0-192V88H148.85v144h214.29v-48z'/>  <path fill='currentColor' d='M411.15 40H16v432h480V40zm-310.3 384H64v-48h36.86zm0-96H64v-48h36.86zm0-96H64v-48h36.86zm0-96H64V88h36.86zM448 424h-36.85v-48H448zm0-96h-36.85v-48H448zm0-96h-36.85v-48H448zm0-96h-36.85V88H448z' opacity='.25'/>"]

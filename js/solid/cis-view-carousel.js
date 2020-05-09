@@ -1,0 +1,1 @@
+export const cisViewCarousel = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='224' height='384' x='144' y='64' class='cls-1' rx='24' ry='24'/>  <rect width='96' height='256' x='15.999' y='128' class='cls-1' rx='24' ry='24'/>  <rect width='96' height='256' x='399.999' y='128' class='cls-1' rx='24' ry='24'/>"]

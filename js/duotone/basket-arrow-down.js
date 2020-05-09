@@ -1,0 +1,1 @@
+export const basketArrowDown = ["512 512","  <path fill='currentColor' d='M440.668 184L391.674 16h-50l48.995 168H121.331l48.995-168h-50L71.332 184H16v95.468L58.856 496h394.261L496 281.584V184h-55.332z' opacity='.25'/>  <path fill='currentColor' d='M336 351.018V346h-57v-92h-48v92h-56v5.76l80.128 79.915L336 351.018z'/>"]

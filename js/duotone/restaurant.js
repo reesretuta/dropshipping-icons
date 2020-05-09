@@ -1,0 +1,1 @@
+export const restaurant = ["512 512","  <path fill='currentColor' d='M219 155h-38V48h-42v107h-38V48H59v124c0 46.572 34.353 85.577 80 94.885V480h42V266.885c45.647-9.308 80-48.313 80-94.885V48h-42z'/>  <path fill='currentColor' d='M412.807 35.244A143.65 143.65 0 00291 177.224V349h104v131h42V31.522z' opacity='.25'/>"]

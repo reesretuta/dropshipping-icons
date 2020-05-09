@@ -1,0 +1,1 @@
+export const cisVideoLabel = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M464,56H48A32.0367,32.0367,0,0,0,16,88V424a32.0367,32.0367,0,0,0,32,32H464a32.0367,32.0367,0,0,0,32-32V88A32.0367,32.0367,0,0,0,464,56ZM448,408H64V104H448Z' class='cls-1'/>  <rect width='288' height='184' x='112' y='152' class='cls-1'/>"]

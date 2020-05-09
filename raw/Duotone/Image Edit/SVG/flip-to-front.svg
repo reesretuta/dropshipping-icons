@@ -1,0 +1,26 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill:currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>flip-to-front</title>
+  <rect class="cls-1" x="128" y="16" width="368" height="368" rx="32"/>
+  <g class="cls-2">
+    <rect class="cls-1" x="304" y="448" width="48" height="48"/>
+    <rect class="cls-1" x="16.1514" y="159.8486" width="48" height="48"/>
+    <rect class="cls-1" x="208" y="448" width="48" height="48"/>
+    <rect class="cls-1" x="400" y="448" width="48" height="48"/>
+    <polygon class="cls-1" points="16.151 496 64 496 64 472 64.151 472 64.151 447.849 16.151 447.849 16.151 496"/>
+    <rect class="cls-1" x="112" y="448" width="48" height="48"/>
+    <rect class="cls-1" x="16.1514" y="255.8486" width="48" height="48"/>
+    <rect class="cls-1" x="16.1514" y="351.8486" width="48" height="48"/>
+    <rect class="cls-1" x="16.1514" y="64" width="48" height="47.8486"/>
+  </g>
+</svg>

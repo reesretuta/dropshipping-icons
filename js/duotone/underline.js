@@ -1,0 +1,1 @@
+export const underline = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M296 146h30v86a61.994 61.994 0 01-86 57.163V146h24v-36H136v36h30v86a98 98 0 00196 0v-86h30v-36h-96zM136 374h256v36H136z'/>"]

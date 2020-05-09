@@ -1,0 +1,1 @@
+export const borderAll = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M104 104h136v136H104zm0 168h136v136H104zm168-168h136v136H272zm0 168h136v136H272z'/>"]

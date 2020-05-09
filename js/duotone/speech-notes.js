@@ -1,0 +1,1 @@
+export const speechNotes = ["512 512","  <path fill='currentColor' d='M464 48H48a16 16 0 00-16 16v288a16 16 0 0016 16h80v112h8l112-112h216a16 16 0 0016-16V64a16 16 0 00-16-16z' opacity='.25'/>  <path fill='currentColor' d='M192 110h224v36H192zm0 80h224v36H192zm0 80h224v36H192zm-88-160h40v36h-40zm0 80h40v36h-40zm0 80h40v36h-40z'/>"]

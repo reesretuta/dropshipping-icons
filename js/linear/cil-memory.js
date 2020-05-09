@@ -1,0 +1,1 @@
+export const cilMemory = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M320,192H192V320H320Zm-32,96H224V224h64Z' class='cls-1'/>  <path d='M480,224V192H408V104H320V32H288v72H224V32H192v72H104v88H32v32h72v64H32v32h72v88h88v72h32V408h64v72h32V408h88V320h72V288H408V224ZM376,376H136V136H376Z' class='cls-1'/>"]

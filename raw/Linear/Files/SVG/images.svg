@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>images</title>
+  <path class="cls-1" d="M496,16H128V128H16V496H384V384H496ZM464,48V154.9111l-51.8457-51.8457L354,161.2188l-84-84-110,110V48Zm0,223.2188-87.373-87.3731,35.5273-35.5264L464,200.165ZM352,464H48V160h80V384H352ZM160,352V232.4727L270,122.4736,464,316.4727V352Z"/>
+</svg>

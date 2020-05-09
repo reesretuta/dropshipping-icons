@@ -1,0 +1,20 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>chart-table</title>
+  <g>
+    <path class="cls-1" d="M357,173V480H472a24.0275,24.0275,0,0,0,24-24V173H357Z"/>
+    <path class="cls-2" d="M472,32H40A24.0275,24.0275,0,0,0,16,56v75H496V56A24.0275,24.0275,0,0,0,472,32Z"/>
+    <polygon class="cls-1" points="189 448 189 480 315 480 315 448 315 173 189 173 189 448"/>
+    <path class="cls-1" d="M16,173V456a24.0275,24.0275,0,0,0,24,24H147V173H16Z"/>
+  </g>
+</svg>

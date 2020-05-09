@@ -1,0 +1,1 @@
+export const mobilePortrait = ["512 512","  <path fill='currentColor' d='M144 104h224v304H144z' opacity='.25'/>  <path fill='currentColor' d='M376 16H136a40.045 40.045 0 00-40 40v400a40.045 40.045 0 0040 40h240a40.045 40.045 0 0040-40V56a40.045 40.045 0 00-40-40zm-8 392H144V104h224z'/>"]

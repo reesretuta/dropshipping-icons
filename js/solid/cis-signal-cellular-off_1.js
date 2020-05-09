@@ -1,0 +1,1 @@
+export const cisSignalCellularOff_1 = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='316.568 235.597 316.568 235.597 496 415.029 496 16 446.059 16 271.485 190.574 316.568 235.597' class='cls-1'/>  <polygon points='496 496 496 466.457 45.709 16 16 16 16 45.422 216.318 245.74 16 446.059 16 496 448 496 496 496' class='cls-1'/>"]

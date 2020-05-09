@@ -1,0 +1,1 @@
+export const dataTransferDown = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M18.723 432h480v64h-480z' class='cls-2' opacity='.25'/>  <path d='M409.351 246.627l-45.255-45.254-65.373 65.372V16h-64v250.745l-65.372-65.372-45.255 45.254 142.627 142.628 142.628-142.628z' class='cls-2'/>"]

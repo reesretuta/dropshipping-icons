@@ -1,0 +1,1 @@
+export const cisMediaEject = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='256 67.509 80 278.56 432 278.56 256 67.509' class='cls-1'/>  <rect width='352' height='80' x='80' y='336' class='cls-1'/>"]

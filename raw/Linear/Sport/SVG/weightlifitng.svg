@@ -1,0 +1,12 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>weightlifitng</title>
+  <circle class="cls-1" cx="256" cy="156" r="36"/>
+  <path class="cls-1" d="M400,16V72H112V16H16V160h96V104h25.2781l7.5237,90.2891L224,233.8885V336H144.8643l-7.4129,133.4255h32.05L175.1357,368H336.8643l5.6345,101.4255h32.05L367.1357,336H288V233.8885l79.1982-39.5994L374.7219,104H400v56h96V16ZM80,72v56H48V48H80ZM336.8018,173.71,256,214.1113,175.1982,173.71l-5.81-69.71h173.223ZM464,128H432V48h32Z"/>
+</svg>

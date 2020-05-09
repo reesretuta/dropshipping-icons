@@ -1,0 +1,1 @@
+export const cilBookmark = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M424,496H388.75L256.0078,381.19,123.4668,496H88V16H424ZM120,48V456.6675L255.9922,338.8682,392,456.5029V48Z' class='cls-1'/>  <path d='M424,496H388.75L256.0078,381.19,123.4668,496H88V16H424ZM120,48V456.6675L255.9922,338.8682,392,456.5029V48Z' class='cls-1'/>"]

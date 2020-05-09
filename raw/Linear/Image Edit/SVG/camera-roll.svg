@@ -1,0 +1,21 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>camera-roll</title>
+  <g>
+    <path class="cls-1" d="M328,136V104a32.0367,32.0367,0,0,0-32-32H280V48a32.0367,32.0367,0,0,0-32-32H96A32.0367,32.0367,0,0,0,64,48V72H48a32.0367,32.0367,0,0,0-32,32V464a32.0367,32.0367,0,0,0,32,32H296a32.0367,32.0367,0,0,0,32-32V440H496V136ZM464,408H296v56H48V104H96V48H248v56h48v64H464Z"/>
+    <rect class="cls-1" x="392" y="200" width="40" height="40"/>
+    <rect class="cls-1" x="320" y="200" width="40" height="40"/>
+    <rect class="cls-1" x="248" y="200" width="40" height="40"/>
+    <rect class="cls-1" x="392" y="336" width="40" height="40"/>
+    <rect class="cls-1" x="320" y="336" width="40" height="40"/>
+    <rect class="cls-1" x="248" y="336" width="40" height="40"/>
+    <rect class="cls-1" x="176" y="200" width="40" height="40"/>
+    <rect class="cls-1" x="176" y="336" width="40" height="40"/>
+  </g>
+</svg>

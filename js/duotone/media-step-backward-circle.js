@@ -1,0 +1,1 @@
+export const mediaStepBackwardCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.91' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M142 168.32h36v184h-36zm82 88.61v13.63l116.65 81.8h11.33l.04-184h-11.34L224 256.93z'/>"]

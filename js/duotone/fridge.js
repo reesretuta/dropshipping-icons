@@ -1,0 +1,1 @@
+export const fridge = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M96 480a16 16 0 0016 16h288a16 16 0 0016-16V242H96zm46-176h36v96h-36z' class='cls-1'/>  <path fill='currentColor' d='M384 16H128a32 32 0 00-32 32v158h320V48a32 32 0 00-32-32z' opacity='.25'/>  <path d='M142 88h36v64h-36z' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const vericalSplit = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='448' height='448' x='32' y='32' class='cls-2' opacity='.25' rx='24'/>  <rect width='187' height='308' x='261' y='102' class='cls-2' rx='19.406'/>  <path d='M63 102h160v38H63zm0 270h160v38H63zm0-90h160v38H63zm0-90h160v38H63z' class='cls-2'/>"]

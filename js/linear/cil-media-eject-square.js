@@ -1,0 +1,1 @@
+export const cilMediaEjectSquare = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>  <path d='M392,304H120V408H392Zm-32,72H152V336H360Z' class='cls-1'/>  <path d='M400,225.67,270.93,88H240.74L120,226v38H400ZM157.26,232l98-112h1.81l105,112Z' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const report = ["512 512","  <path fill='currentColor' d='M355.411 16H156.589L16 168v176l140.589 152h198.822L496 344V168L355.411 16z' opacity='.25'/>  <path fill='currentColor' d='M236 344h40v40h-40zm38-40l14-72V120h-64v112l14 72h36z'/>"]

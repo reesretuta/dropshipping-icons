@@ -1,0 +1,1 @@
+export const mediaEjectCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.91' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M152.1 303.66h208v64h-208zm96.04-192l-96.02 111.98v16l208 .04v-16l-95.98-112.02h-16z'/>"]

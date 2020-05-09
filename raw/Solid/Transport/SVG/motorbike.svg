@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>motorbike</title>
+  <g>
+    <path class="cls-1" d="M396,208a99.9375,99.9375,0,0,0-22.6767,2.5947L323.5508,102H224v36h76.4492l39.8653,86.9788A99.9546,99.9546,0,1,0,396,208Z"/>
+    <path class="cls-1" d="M116,208a100,100,0,1,0,99.2775,112H112V288H260.8681L288,244.5889V208Z"/>
+    <rect class="cls-1" x="48" y="150" width="104" height="36"/>
+  </g>
+</svg>

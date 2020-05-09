@@ -1,0 +1,1 @@
+export const cidBookmark = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <polygon fill='currentColor' points='149 414 171.526 414 256 329.646 340.474 414 363 414 363 99 149 99 149 414'/>"]

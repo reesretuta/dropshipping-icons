@@ -1,0 +1,1 @@
+export const cilVolumeLow = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M320,168v32a56,56,0,0,1,0,112v32a88,88,0,0,0,0-176Z' class='cls-1'/>  <path d='M145.37,120H16V392H145.37l104,104H288V16H249.37ZM128,360H48V152h80Zm128,97.37-96-96V150.63l96-96Z' class='cls-1'/>"]

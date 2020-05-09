@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .a {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>mobile-portrait</title>
+  <path class="a" d="M384,16H128A32.0364,32.0364,0,0,0,96,48V464a32.0367,32.0367,0,0,0,32,32H384a32.0367,32.0367,0,0,0,32-32V48A32.0364,32.0364,0,0,0,384,16ZM128,48H384l.0024,48H128ZM384.0165,384H128V128H384.004ZM384,464H128V416H384.0181l.0024,47.999Z"/>
+</svg>

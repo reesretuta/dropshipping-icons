@@ -1,0 +1,1 @@
+export const barChart = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='136' height='272' x='152' y='112' class='cls-1' rx='24'/>  <rect width='136' height='368' x='360' y='16' class='cls-1' rx='24'/>  <path fill='currentColor' d='M80 16H16v480h480v-64H80V16z' opacity='.25'/>"]

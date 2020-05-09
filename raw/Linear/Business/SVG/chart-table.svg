@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>chart-table</title>
+  <path class="cls-1" d="M472,16H40A24.0275,24.0275,0,0,0,16,40V472a24.0275,24.0275,0,0,0,24,24H472a24.0275,24.0275,0,0,0,24-24V40A24.0275,24.0275,0,0,0,472,16Zm-8,32v88H48V48ZM312,168V464H192V168ZM48,168H160V464H48ZM344,464V168H464V464Z"/>
+</svg>

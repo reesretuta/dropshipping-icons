@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>picture-in-picture-alt</title>
+  <path class="cls-1" d="M464,56H48A32.0367,32.0367,0,0,0,16,88V432a32.0367,32.0367,0,0,0,32,32H464a32.0367,32.0367,0,0,0,32-32V88A32.0367,32.0367,0,0,0,464,56ZM280,376H104V240H280Z"/>
+</svg>

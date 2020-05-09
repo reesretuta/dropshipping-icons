@@ -1,0 +1,1 @@
+export const locationPinPlus = ["512 512","  <path fill='currentColor' d='M256 23.14a171.814 171.814 0 00-138.557 273.41l125.435 179.781a16 16 0 0026.244 0L394.557 296.55A171.814 171.814 0 00256 23.139z' opacity='.25'/>  <path fill='currentColor' d='M238 272h36v-62h62v-36h-62v-62h-36v62h-62v36h62v62z'/>"]

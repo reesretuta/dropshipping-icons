@@ -1,0 +1,1 @@
+export const cisViewArray = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='224' height='384' x='144' y='64' class='cls-1' rx='24' ry='24'/>  <rect width='96' height='384' x='16' y='64' class='cls-1' rx='24' ry='24'/>  <rect width='96' height='384' x='400' y='64' class='cls-1' rx='24' ry='24'/>"]

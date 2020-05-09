@@ -1,0 +1,1 @@
+export const cisItalic = ["512 512","  <path fill='currentColor' d='M32,31.9976v448H480v-448Zm328,112H309.5579l-42,224H312v32H152v-32h50.4421l42-224H200v-32H360Z'/>"]

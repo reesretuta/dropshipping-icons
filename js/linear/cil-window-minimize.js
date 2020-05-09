@@ -1,0 +1,1 @@
+export const cilWindowMinimize = ["512 512","  <rect width='416' height='32' x='48' y='448' fill='currentColor'/>"]

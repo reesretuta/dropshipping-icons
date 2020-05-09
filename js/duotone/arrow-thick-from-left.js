@@ -1,0 +1,1 @@
+export const arrowThickFromLeft = ["512 512","  <path fill='currentColor' d='M296 72h-16v120H136v128h144v120h16l183.998-183.814L296 72z'/>  <path fill='currentColor' d='M16 56h48v400H16z' opacity='.25'/>"]

@@ -1,0 +1,1 @@
+export const cilTablet = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M440,16H80A24.0275,24.0275,0,0,0,56,40V472a24.0275,24.0275,0,0,0,24,24H440a24.0275,24.0275,0,0,0,24-24V40A24.0275,24.0275,0,0,0,440,16Zm-8,32V336H88V48ZM88,464V368H432v96Z' class='cls-1'/>  <rect width='32' height='32' x='232' y='400' class='cls-1'/>"]

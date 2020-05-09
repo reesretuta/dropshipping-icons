@@ -1,0 +1,1 @@
+export const chevronTopAlt = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M101.029 308.029l33.942 33.942L256 220.941l121.029 121.03 33.942-33.942L256 153.059l-154.971 154.97z'/>"]

@@ -1,0 +1,1 @@
+export const mouseAlt = ["512 512","  <path fill='currentColor' d='M304 36h-96a96 96 0 00-96 96v199.121c0 78.593 62.44 143.73 141.017 145.32A144 144 0 00400 332.47V132a96 96 0 00-96-96z' opacity='.25'/>  <path fill='currentColor' d='M235 96h42v118h-42z'/>"]

@@ -1,0 +1,1 @@
+export const cilCaretBottom = ["512 512","  <path fill='currentColor' d='M256.2861,408.3574,16.333,138.5479V104H496v36.45ZM56.8916,136,256.3584,360.2871,457.042,136Z'/>"]

@@ -1,0 +1,1 @@
+export const cilMediaSkipBackwardSquare = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>  <path d='M256,384V291.12L370.32,384H408V136H370.32L256,228.88V136H218.32L80,248.38v23.24L218.32,384ZM376,172.62V347.38L268.45,260Zm-152,0V347.38L116.45,260Z' class='cls-1'/>"]

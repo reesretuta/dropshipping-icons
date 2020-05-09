@@ -1,0 +1,1 @@
+export const arrowThickSquareRight = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M240.014 384h15.79L384 256.151 256.009 128.008 240 128l.004 80H144v96h96.009l.005 80z'/>"]

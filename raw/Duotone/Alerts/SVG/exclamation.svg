@@ -1,0 +1,17 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>exclamation</title>
+  <rect class="cls-1" x="32" y="32" width="448" height="448" rx="24"/>
+  <path class="cls-2" d="M256,322h0a54,54,0,0,0-54,54v0a54,54,0,0,0,54,54h0a54,54,0,0,0,54-54v0A54,54,0,0,0,256,322Z"/>
+  <polygon class="cls-2" points="190 130 232 286 280 286 322 130 322 82 190 82 190 130"/>
+</svg>

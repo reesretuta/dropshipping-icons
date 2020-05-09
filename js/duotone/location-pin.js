@@ -1,0 +1,1 @@
+export const locationPin = ["512 512","  <path fill='currentColor' d='M242.878 476.332a16 16 0 0026.244 0l125.435-179.781a171.814 171.814 0 10-277.114 0z' opacity='.25'/>  <circle cx='256' cy='197.012' r='56' fill='currentColor'/>"]

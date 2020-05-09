@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor}
+    </style>
+  </defs>
+  <path d="M64,480H456V160L328,32H64ZM231.8613,150A97.81,97.81,0,0,1,311.27,304.9858l66.2866,66.2867-25.456,25.455-66.8757-66.8756A97.8469,97.8469,0,1,1,231.8613,150Z" class="cls-1"/>
+  <circle cx="231.861" cy="247.861" r="61.861" class="cls-1" transform="rotate(-9.218 231.86 247.86)"/>
+</svg>

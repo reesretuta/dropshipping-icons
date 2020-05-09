@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>video-plus</title>
+  <path class="cls-1" d="M360,177.0908V72H16V440H360V326.9092L480,376h16V128H480ZM288,276H212v76H164V276H88V228h76V152h48v76h76Z"/>
+</svg>

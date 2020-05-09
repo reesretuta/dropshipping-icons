@@ -1,0 +1,1 @@
+export const cidTerrain = ["512 512","  <g fill='currentColor'>    <polygon points='512.118 425.784 286.908 86.216 61.698 425.784 512.118 425.784' opacity='.25'/>    <polygon points='279.337 425.784 139.727 216.391 .118 425.784 279.337 425.784'/>  </g>"]

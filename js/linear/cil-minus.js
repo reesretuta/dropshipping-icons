@@ -1,0 +1,1 @@
+export const cilMinus = ["512 512","  <rect width='368' height='32' x='72' y='240' fill='currentColor'/>"]

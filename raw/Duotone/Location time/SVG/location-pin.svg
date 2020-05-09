@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>location-pin</title>
+  <path class="cls-1" d="M242.8779,476.3325a16.0007,16.0007,0,0,0,26.2442,0L394.5571,296.551a171.8142,171.8142,0,1,0-277.1142,0Z"/>
+  <circle class="cls-2" cx="256" cy="197.0122" r="56"/>
+</svg>

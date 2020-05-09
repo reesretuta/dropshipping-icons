@@ -1,0 +1,1 @@
+export const cidArrowThickToBottom = ["512 512","  <polygon fill='currentColor' points='320 32.002 192 32.002 192 176.002 72 176.002 72 192.002 255.814 376 440 192.002 440 176.002 320 176.002 320 32.002'/>  <rect width='400' height='48' x='56' y='448' fill='currentColor' opacity='.25'/>"]

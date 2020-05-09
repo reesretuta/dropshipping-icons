@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>barcode</title>
+  <path class="cls-1" d="M0,464H512V56H0ZM411,128h42V384H411Zm-70.4,0h42V336h-42Zm-70.4,0h42V336h-42Zm-70.4,0h42V384h-42Zm-70.4,0h42V336h-42ZM59,128h42V384H59Z"/>
+</svg>

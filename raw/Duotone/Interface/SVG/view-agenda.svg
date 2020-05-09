@@ -1,0 +1,21 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-2 {
+        fill:currentColor;
+      }
+    </style>
+  </defs>
+  <title>view-agenda</title>
+  <g class="cls-1">
+    <rect class="cls-2" x="32" y="32" width="448" height="448" rx="24"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="64" y="102" width="384" height="141" rx="19.3906"/>
+    <rect class="cls-2" x="64" y="269" width="384" height="141" rx="19.3906"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>widgets</title>
+  <g>
+    <rect class="cls-1" x="16" y="312" width="184" height="184"/>
+    <rect class="cls-1" x="16" y="64" width="184" height="184"/>
+    <rect class="cls-1" x="272" y="312" width="184" height="184"/>
+    <rect class="cls-1" x="271.4806" y="64.5197" width="183.9997" height="183.9997" transform="translate(-4.2151 302.863) rotate(-45)"/>
+  </g>
+</svg>

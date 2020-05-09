@@ -1,0 +1,1 @@
+export const expandUp = ["512 512","  <path fill='currentColor' d='M16 443h480v64H16zm0-432h480v128H16z' opacity='.25'/>  <path fill='currentColor' d='M256.077 195.777L96 363.079V403h320v-37.86L256.077 195.777z'/>"]

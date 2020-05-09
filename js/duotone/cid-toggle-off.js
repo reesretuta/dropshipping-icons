@@ -1,0 +1,1 @@
+export const cidToggleOff = ["512 512","  <path fill='currentColor' d='M368,128H144a128,128,0,0,0,0,256H368a128,128,0,0,0,0-256Z' opacity='.25'/>  <circle cx='144' cy='256' r='64' fill='currentColor'/>"]

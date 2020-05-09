@@ -1,0 +1,17 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>folder-plus</title>
+  <path class="cls-1" d="M472,104H16V448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V128A24,24,0,0,0,472,104Z"/>
+  <path class="cls-2" d="M258.6667,104,237.8975,54.1538A23,23,0,0,0,216.6667,40H39A23,23,0,0,0,16,63v41Z"/>
+  <polygon class="cls-2" points="235 376 277 376 277 309 344 309 344 267 277 267 277 200 235 200 235 267 168 267 168 309 235 309 235 376"/>
+</svg>

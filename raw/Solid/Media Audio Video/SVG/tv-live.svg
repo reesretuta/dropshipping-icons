@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>tv-live</title>
+  <g>
+    <path class="cls-1" d="M480,88H314.4414l72-72H318.5586L256.25,78.3086,193.9414,16H126.0586l72,72H32a16,16,0,0,0-16,16V392a16,16,0,0,0,16,16H480a16,16,0,0,0,16-16V104A16,16,0,0,0,480,88ZM352,256,216,344h-23.07L192,160h23.07L352,248Z"/>
+    <rect class="cls-1" x="160" y="432" width="192" height="64"/>
+  </g>
+</svg>

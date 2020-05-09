@@ -1,0 +1,1 @@
+export const cilFlagRectangle = ["512 512","  <path fill='currentColor' d='M464,56H80V16H48V496H80V360H464ZM432,328H80V88H432Z'/>"]

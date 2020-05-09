@@ -1,0 +1,1 @@
+export const brandingWatermark = ["512 512","  <rect width='480' height='368' x='16' y='72' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M422.4 287.2h36v36h-36zm-76.8-76.8h36v36h-36zm76.8 0h36v36h-36zm0 153.6h36v36h-36zM192 287.2h36v36h-36zm0-76.8h36v36h-36zm0 153.6h36v36h-36zm76.8 0h36v36h-36zm0-153.6h36v36h-36zM345.6 364h36v36h-36z'/>"]

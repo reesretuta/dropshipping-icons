@@ -1,0 +1,1 @@
+export const mobilePlus = ["512 512","  <path fill='currentColor' d='M392 208v-56h-48v56h-56v48h56v56h48v-56h56v-48h-56z' opacity='.25'/>  <path fill='currentColor' d='M120 88h272V56a40.045 40.045 0 00-40-40H112a40.045 40.045 0 00-40 40v400a40.045 40.045 0 0040 40h240a40.045 40.045 0 0040-40v-88H120zm94 326h36v36h-36z'/>"]

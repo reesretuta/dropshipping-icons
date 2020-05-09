@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>sticky-note</title>
+  <path class="cls-1" d="M24,24V496H318.627L496,318.627V24ZM56,56H464V264H264V464H56ZM305.373,464H296V296H464v9.373Z"/>
+</svg>

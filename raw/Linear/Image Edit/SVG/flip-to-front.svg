@@ -1,0 +1,26 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>flip-to-front</title>
+  <g>
+    <path class="cls-1" d="M464,16H144a32.0367,32.0367,0,0,0-32,32V368a32.0367,32.0367,0,0,0,32,32H464a32.0367,32.0367,0,0,0,32-32V48A32.0367,32.0367,0,0,0,464,16Zm0,352H144V48H464l.0205,319.999Z"/>
+    <rect class="cls-1" x="77.8459" y="464" width="30.7695" height="32"/>
+    <rect class="cls-1" x="384" y="464" width="30.7695" height="32"/>
+    <rect class="cls-1" x="200.3076" y="464" width="30.7695" height="32"/>
+    <rect class="cls-1" x="139.0774" y="464" width="30.7686" height="32"/>
+    <rect class="cls-1" x="261.5388" y="464" width="30.7686" height="32"/>
+    <rect class="cls-1" x="322.7693" y="464" width="30.7695" height="32"/>
+    <rect class="cls-1" x="16" y="464" width="32" height="32"/>
+    <rect class="cls-1" x="16" y="224.3076" width="32" height="30.1543"/>
+    <rect class="cls-1" x="16" y="284.4614" width="32" height="30.1543"/>
+    <rect class="cls-1" x="16" y="404.769" width="32" height="30.1543"/>
+    <rect class="cls-1" x="16" y="344.6152" width="32" height="30.1543"/>
+    <rect class="cls-1" x="16" y="164.1538" width="32" height="30.1543"/>
+    <rect class="cls-1" x="16" y="104" width="32" height="30.1543"/>
+  </g>
+</svg>

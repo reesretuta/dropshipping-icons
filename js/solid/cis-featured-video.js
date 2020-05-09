@@ -1,0 +1,1 @@
+export const cisFeaturedVideo = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M480,64H32A16,16,0,0,0,16,80V432a16,16,0,0,0,16,16H480a16,16,0,0,0,16-16V80A16,16,0,0,0,480,64ZM368,328H80V130H368Z' class='cls-1'/>  <polygon points='184 164.077 184 293 283.172 223.58 184 164.077' class='cls-1'/>"]

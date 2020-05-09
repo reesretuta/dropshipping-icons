@@ -1,0 +1,1 @@
+export const chartArea = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M496 408l-.038-71.962L424.077 248l71.885 88.038L496 408z' class='cls-1'/>  <path fill='currentColor' d='M496 448H64V96H16v400h480v-48z' opacity='.25'/>  <path d='M408 248l-40.077 48L264 112h-16L104 368v40h392l-.038-71.962L424.077 248H408z' class='cls-1'/>"]

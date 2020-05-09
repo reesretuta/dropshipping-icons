@@ -1,0 +1,1 @@
+export declare const signalCellularOff_1: string[];

@@ -1,0 +1,1 @@
+export const cidViewAgenda = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='448' height='448' x='32' y='32' class='cls-2' opacity='.25' rx='24'/>  <rect width='384' height='141' x='64' y='102' class='cls-2' rx='19.391'/>  <rect width='384' height='141' x='64' y='269' class='cls-2' rx='19.391'/>"]

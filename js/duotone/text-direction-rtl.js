@@ -1,0 +1,1 @@
+export const textDirectionRtl = ["512 512","  <path fill='currentColor' d='M392 360V106.087h35.13v-48H232.696a106.783 106.783 0 100 213.565h29.217V360h48V106.087H344V360z'/>  <path fill='currentColor' d='M117.675 336h-5.018L32 416.657l79.915 79.915h5.76v-59H464v-42H117.675V336z' opacity='.25'/>"]

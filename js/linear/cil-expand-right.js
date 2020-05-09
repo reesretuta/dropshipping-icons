@@ -1,0 +1,1 @@
+export const cilExpandRight = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='32' height='480' x='40' y='19' class='cls-1'/>  <path d='M392,19V499H520V19Zm96,448H424V51h64Z' class='cls-1'/>  <path d='M120,99V419h37.86L327.2236,259.077,159.9214,99Zm32,281.522V135.7093L280.7764,258.9236Z' class='cls-1'/>"]

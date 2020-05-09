@@ -1,0 +1,1 @@
+export const cilPage = ["512 512","  <path fill='currentColor' d='M464,496H40V16H326.6274L464,153.373ZM72,464H432V166.627L313.3726,48H72Z'/>"]

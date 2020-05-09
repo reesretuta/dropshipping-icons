@@ -1,0 +1,1 @@
+export const mediaRecordSquare = ["512 512","  <path fill='currentColor' d='M16 16h480v480H16z' opacity='.25'/>  <path fill='currentColor' d='M256 144a112 112 0 00-112 112 112 112 0 00224 0 112 112 0 00-112-112z'/>"]

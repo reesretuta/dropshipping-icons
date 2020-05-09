@@ -1,0 +1,1 @@
+export const resizeWidth = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M323.451 161.475v56.156H185.065v-56.156h-12.248l-94.834 94.447L172.446 350h12.619v-56.156h138.386V350h12.715L431 255.553l-94.463-94.078h-13.086z'/>"]

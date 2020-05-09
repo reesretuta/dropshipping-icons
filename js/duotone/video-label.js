@@ -1,0 +1,1 @@
+export const videoLabel = ["512 512","  <path fill='currentColor' d='M464 56H48a32 32 0 00-32 32v336a32 32 0 0032 32h416a32 32 0 0032-32V88a32 32 0 00-32-32zm-16 352H64V104h384z' opacity='.25'/>  <path fill='currentColor' d='M112 152h288v184H112z'/>"]

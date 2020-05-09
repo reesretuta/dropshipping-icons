@@ -1,0 +1,1 @@
+export const laptop = ["512 512","  <path fill='currentColor' d='M464 336V111a30 30 0 00-30-30H78a30 30 0 00-30 30v225H16v64.05L48 432h416l32-31.95V336z' opacity='.25'/>  <path fill='currentColor' d='M96 129h320v207H96z'/>"]

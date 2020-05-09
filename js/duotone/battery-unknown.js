@@ -1,0 +1,1 @@
+export const batteryUnknown = ["512 512","  <path fill='currentColor' d='M424 160V88H16v336h408v-72h72V160h-72z' opacity='.25'/>  <path fill='currentColor' d='M211 323h-42v-49.87A35.17 35.17 0 01204.13 238h28.25a35.5 35.5 0 000-71H169v-42h63.38a77.5 77.5 0 010 155H211zm-42 30.4V387h42v-42h-42v8.4z'/>"]

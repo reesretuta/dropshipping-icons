@@ -1,0 +1,1 @@
+export const equalizer = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path fill='currentColor' d='M64 16h48v480H64zm168 0h48v480h-48zm168 0h48v480h-48z' opacity='.25'/>  <circle cx='88' cy='208' r='72' class='cls-2'/>  <circle cx='256' cy='352' r='72' class='cls-2'/>  <circle cx='424' cy='144' r='72' class='cls-2'/>"]

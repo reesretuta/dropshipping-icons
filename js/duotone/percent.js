@@ -1,0 +1,1 @@
+export const percent = ["512 512","  <path fill='currentColor' d='M152 216A104 104 0 1048 112a104.118 104.118 0 00104 104zm216 80a104 104 0 10104 104 104.118 104.118 0 00-104-104z' opacity='.25'/>  <path fill='currentColor' d='M384.639 16L47.247 496h79.049L462.784 16h-78.145z'/>"]

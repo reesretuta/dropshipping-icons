@@ -1,0 +1,1 @@
+export const cilListFilter = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='320' height='32' x='96' y='197.333' class='cls-1'/>  <rect width='176' height='32' x='168' y='298.666' class='cls-1'/>  <rect width='80' height='32' x='216' y='400' class='cls-1'/>  <rect width='416' height='32' x='48' y='96' class='cls-1'/>"]

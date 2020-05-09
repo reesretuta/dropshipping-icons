@@ -1,0 +1,1 @@
+export const cisArrowThickToTop = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='320 136 192 136 192 280 72 280 72 296 255.814 479.998 440 296 440 280 320 280 320 136' class='cls-1'/>  <rect width='400' height='48' x='56' y='16' class='cls-1'/>"]

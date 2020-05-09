@@ -1,0 +1,1 @@
+export const cilMediaRecordSquare = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>  <path d='M256,384A128,128,0,1,0,128,256,128.14,128.14,0,0,0,256,384Zm0-224a96,96,0,1,1-96,96A96.11,96.11,0,0,1,256,160Z' class='cls-1'/>"]

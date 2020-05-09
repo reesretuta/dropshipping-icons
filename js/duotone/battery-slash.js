@@ -1,0 +1,1 @@
+export const batterySlash = ["512 512","  <path fill='currentColor' d='M16 88v336h378.58l-336-336H16zm408 72V88H168.78l147.79 147.6L424 343.03l8.97 8.97h63.02V160H424z' opacity='.25'/>  <path fill='currentColor' d='M45.71 16H16v29.42L58.58 88l336 336 72 72H496v-29.54L45.71 16z'/>  <path fill='#fff' d='M424 352h8.97l-8.97-8.97V352z'/>"]

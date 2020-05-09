@@ -1,0 +1,1 @@
+export const calendarPlus = ["512 512","  <path fill='currentColor' d='M472 88h-72V16h-64v72H176V16h-64v72H40a24.027 24.027 0 00-24 24v336a24.027 24.027 0 0024 24h432a24.027 24.027 0 0024-24V112a24.027 24.027 0 00-24-24z' opacity='.25'/>  <path fill='currentColor' d='M232 384h48v-72h72v-48h-72v-72h-48v72h-72v48h72v72z'/>"]

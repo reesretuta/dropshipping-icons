@@ -1,0 +1,1 @@
+export const mediaEject = ["512 512","  <path fill='currentColor' d='M256 67.51L80 278.56h352L256 67.51z'/>  <path fill='currentColor' d='M80 336h352v80H80z' opacity='.25'/>"]

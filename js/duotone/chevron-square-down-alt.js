@@ -1,0 +1,1 @@
+export const chevronSquareDownAlt = ["512 512","  <path fill='currentColor' d='M456 16H56a40.046 40.046 0 00-40 40v400a40.046 40.046 0 0040 40h400a40.046 40.046 0 0040-40V56a40.046 40.046 0 00-40-40zm-24 416H80V80h352z' opacity='.25'/>  <path fill='currentColor' d='M371.2 241.6l-38.4-51.2L256 248l-76.8-57.6-38.4 51.2L256 328l115.2-86.4z'/>"]

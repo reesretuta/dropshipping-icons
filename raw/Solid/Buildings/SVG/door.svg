@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>door</title>
+  <path class="cls-1" d="M400,64H112V448H16v48H496V448H400ZM354,328H318V246h36Z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>call-to-action</title>
+  <g>
+    <path class="cls-1" d="M472,40H40A24.0275,24.0275,0,0,0,16,64V448a24.0275,24.0275,0,0,0,24,24H472a24.0275,24.0275,0,0,0,24-24V64A24.0275,24.0275,0,0,0,472,40Zm-8,400H48V72H464Z"/>
+    <rect class="cls-1" x="112" y="312" width="288" height="64"/>
+  </g>
+</svg>

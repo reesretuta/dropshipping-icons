@@ -1,0 +1,1 @@
+export const caretLeft = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M154.957 256.078l173.91 154.911h23.121V101.011h-21.884L154.957 256.078z'/>"]

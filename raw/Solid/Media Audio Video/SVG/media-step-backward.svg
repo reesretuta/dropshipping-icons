@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>media-step-backward</title>
+  <g>
+    <path class="cls-1" d="M387.2382,105.5859l-194.56,144.1184a8,8,0,0,0,0,12.8569L387.2382,406.68A8,8,0,0,0,400,400.2511V112.0144A8,8,0,0,0,387.2382,105.5859Z"/>
+    <rect class="cls-1" x="96" y="104" width="48" height="304"/>
+  </g>
+</svg>

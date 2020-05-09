@@ -1,0 +1,1 @@
+export const textWidth = ["512 512","  <path fill='currentColor' d='M149 117h67v166h-40v42h160v-42h-40V117h67v35h42V75H107v77h42v-35z'/>  <path fill='currentColor' d='M415.343 300.876h-5.018V363h-308.65v-62.124h-5.76L16 380.792l80.657 80.657h5.018V405h308.65v56.449h5.76L496 381.533l-80.657-80.657z' opacity='.25'/>"]

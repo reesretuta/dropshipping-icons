@@ -1,0 +1,1 @@
+export const chevronSquareLeft = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M295.973 104.364L144 256.337l150.572 150.572 56.027-56.027-94.545-94.545L352 160.391l-56.027-56.027z'/>"]

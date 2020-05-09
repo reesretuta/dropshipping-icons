@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>movie-alt</title>
+  <path class="cls-1" d="M440,16H72A56.0629,56.0629,0,0,0,16,72V456a16,16,0,0,0,16,16H480a16,16,0,0,0,16-16V72A56.0629,56.0629,0,0,0,440,16ZM129.2986,136l-24-72h56.07l24,72Zm106.6667,0-24-72h56.0694l24,72Zm106.6665,0-24-72h56.07l24,72Z"/>
+</svg>

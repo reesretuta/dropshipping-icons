@@ -1,0 +1,1 @@
+export const cidFlagRectangle = ["512 512","  <rect width='360' height='272' x='88' y='72' fill='currentColor'/>  <polygon fill='currentColor' points='40 16 40 496 88 496 88 344 88 72 88 16 40 16' opacity='.25'/>"]

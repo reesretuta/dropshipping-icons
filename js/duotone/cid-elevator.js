@@ -1,0 +1,1 @@
+export const cidElevator = ["512 512","  <g fill='currentColor'>    <polygon points='256 40 96 176 96 216 416 216 416 176 256 40'/>    <polygon points='96 336 256 472 416 336 416 296 96 296 96 336' opacity='.25'/>  </g>"]

@@ -1,0 +1,1 @@
+export const caretTop = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M101 328.863V352h310v-21.9L255.922 154.94 101 328.863z'/>"]

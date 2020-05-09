@@ -1,0 +1,1 @@
+export const cisFileAudio = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='456 166 456 160 328 32 322 32 322 166 456 166' class='cls-1'/>  <path d='M456,202H286V32H64V480H456ZM240,408h-6.8571l-52.8571-34.2856H137.1429V298.2856h43.1429L233.1429,264H240Zm32-28V356a20,20,0,0,0,0-40V292a44,44,0,0,1,0,88Z' class='cls-1'/>"]

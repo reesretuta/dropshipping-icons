@@ -1,0 +1,1 @@
+export const textSize = ["512 512","  <path fill='currentColor' d='M171 99v85h42v-43h83v246h-48v42h176v-42h-48V141h83v43h42V99H171z' opacity='.25'/>  <path fill='currentColor' d='M248 280v-64H16v64h32v-32h48v152H64v32h128v-32h-32V248h56v32h32z'/>"]

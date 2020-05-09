@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>phone-ring-volume</title>
+  <path class="cls-1" d="M34.9248,334.9194a8.6328,8.6328,0,0,0-2.3076,8.0457L57.44,416l120.8623-17.2661,8.6331-60.4312h0a97.6717,97.6717,0,0,1,138.1284,0h0l8.6331,60.4312L454.56,416l24.8232-73.0349a8.6332,8.6332,0,0,0-2.3075-8.0457l-14.782-14.7819c-113.9326-113.9327-298.6539-113.9327-412.5868,0Z"/>
+  <rect class="cls-1" x="71.9998" y="106.7452" width="48.0004" height="90.5097" transform="translate(-79.3625 112.402) rotate(-45)"/>
+  <rect class="cls-1" x="370.7452" y="127.9998" width="90.5097" height="48.0004" transform="translate(14.3633 338.6762) rotate(-45)"/>
+  <rect class="cls-1" x="232" y="56" width="48" height="88"/>
+</svg>

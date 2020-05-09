@@ -1,0 +1,1 @@
+export const flagTriangle = ["512 512","  <path fill='currentColor' d='M100 81.6V16H52v480h48V374.4L436 240v-24L100 81.6z' opacity='.25'/>  <path fill='currentColor' d='M100 81.6v292.8L436 240v-24L100 81.6z'/>"]

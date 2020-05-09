@@ -1,0 +1,1 @@
+export const inputPower = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M156 16h48v104h-48zm152 0h48v104h-48z' class='cls-2' opacity='.25'/>  <path d='M356 120H96v188.785l96 87.004V496h128V395.789l96-87.004V120h-60z' class='cls-2'/>"]

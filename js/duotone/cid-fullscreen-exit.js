@@ -1,0 +1,1 @@
+export const cidFullscreenExit = ["512 512","  <polygon fill='currentColor' points='184 138.75 61.26 16 16 16 16 61.26 138.75 184 48 184 48 248 248 248 248 48 184 48 184 138.75'/>  <polygon fill='currentColor' points='373.25 328 456 328 456 264 264 264 264 456 328 456 328 373.25 450.75 496 496 496 496 450.75 373.25 328' opacity='.25'/>"]

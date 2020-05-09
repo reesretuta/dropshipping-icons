@@ -1,0 +1,1 @@
+export const signalCellularNoInternet4 = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor;opacity:.25}    </style>  </defs>  <path fill='currentColor' d='M384 224h112V16h-49.941L16 446.059V496h368V224z'/>  <circle cx='460' cy='468' r='28' class='cls-2'/>  <path d='M424 272l16 136h40l16-136h-72z' class='cls-2'/>"]

@@ -1,0 +1,1 @@
+export const transfer = ["512 512","  <path fill='currentColor' d='M152.591 240H144L16 368l128 128h8.591v-96H496v-64H152.591v-96z' opacity='.25'/>  <path fill='currentColor' d='M359.409 272h9.182L496 144.591 367.409 16h-8v96.591H16v64h343.409V272z'/>"]

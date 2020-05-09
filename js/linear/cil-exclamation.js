@@ -1,0 +1,1 @@
+export const cilExclamation = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M256,320a88,88,0,1,0,88,88A88.1,88.1,0,0,0,256,320Zm0,144a56,56,0,1,1,56-56A56.0632,56.0632,0,0,1,256,464Z' class='cls-1'/>  <path d='M152,16V82.2861L212,288h88L360,82.2861V16ZM328,77.7139,276,256H236L184,77.7139V48H328Z' class='cls-1'/>"]

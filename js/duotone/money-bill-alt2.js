@@ -1,0 +1,1 @@
+export const moneyBillAlt2 = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path fill='currentColor' d='M16 80h480v352H16z' opacity='.25'/>  <path d='M64 350h80v36H64zm0-224h80v36H64z' class='cls-2'/>  <ellipse cx='256' cy='256' class='cls-2' rx='72' ry='80.134'/>  <path d='M368 126h80v36h-80zm0 224h80v36h-80z' class='cls-2'/>"]

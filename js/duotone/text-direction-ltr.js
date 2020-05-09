@@ -1,0 +1,1 @@
+export const textDirectionLtr = ["512 512","  <path fill='currentColor' d='M144.696 271.652h29.217V360h48V106.087H256V360h48V106.087h35.13v-48H144.696a106.783 106.783 0 100 213.565z'/>  <path fill='currentColor' d='M394.325 336v59H48v42h346.325v59.572h5.018L480 415.915 400.085 336h-5.76z' opacity='.25'/>"]

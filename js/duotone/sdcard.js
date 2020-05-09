@@ -1,0 +1,1 @@
+export const sdcard = ["512 512","  <path fill='currentColor' d='M224 16L80 168v328h360V16H224z' opacity='.25'/>  <path fill='currentColor' d='M214 96h36v96h-36zm136 0h36v96h-36zm-68 0h36v96h-36zM176 264h208v176H176z'/>"]

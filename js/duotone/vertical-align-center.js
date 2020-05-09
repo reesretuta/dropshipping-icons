@@ -1,0 +1,1 @@
+export const verticalAlignCenter = ["512 512","  <path fill='currentColor' d='M16 224h480v64H16z' opacity='.25'/>  <path fill='currentColor' d='M360 96v-6.645l-64 .285V16h-64v73.925l-64 .285V96l96 112 96-112zM168 416v6.645l64-.285V496h64v-73.925l64-.285V416l-96-112-96 112z'/>"]

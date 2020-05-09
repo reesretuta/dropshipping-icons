@@ -1,0 +1,1 @@
+export const fileVideo = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M456 166v-6L328 32h-6v134h134z' class='cls-1'/>  <path fill='currentColor' d='M286 202V32H64v448h392V202H286z' opacity='.25'/>  <path d='M256 336l-117.305-88H128v176h9.472z' class='cls-1'/>"]

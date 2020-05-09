@@ -1,0 +1,1 @@
+export const featuredPlaylist = ["512 512","  <rect width='480' height='384' x='16' y='64' fill='currentColor' opacity='.25' rx='16'/>  <path fill='currentColor' d='M88 120v128l96-64-96-64zm88 222h240v36H176zm56-176h184v36H232zm-56 88h240v36H176z'/>"]

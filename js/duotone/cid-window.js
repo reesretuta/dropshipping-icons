@@ -1,0 +1,1 @@
+export const cidWindow = ["512 512","  <path fill='currentColor' d='M432,432V40H80V432ZM232,240V376H128V240ZM128,192V88H232V192ZM280,376V240H384V376ZM384,192H280V88H384Z'/>  <path fill='currentColor' d='M40,432v48H472V432' opacity='.25'/>"]

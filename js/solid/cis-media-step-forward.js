@@ -1,0 +1,1 @@
+export const cisMediaStepForward = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M124.7617,105.32A8,8,0,0,0,112,111.7489V399.9855a8,8,0,0,0,12.7617,6.4285l194.56-144.1183a8,8,0,0,0,0-12.8569Z' class='cls-1'/>  <rect width='48' height='304' x='368' y='104' class='cls-1'/>"]

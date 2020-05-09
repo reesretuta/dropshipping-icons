@@ -1,0 +1,1 @@
+export const cardTravel = ["512 512","  <path fill='currentColor' d='M472 128H40a24.027 24.027 0 00-24 24v304a24.027 24.027 0 0024 24h432a24.027 24.027 0 0024-24V152a24.027 24.027 0 00-24-24z' opacity='.25'/>  <path fill='currentColor' d='M136 16v112h48V64h144v64h48V16H136zM16 328h480v64H16z'/>"]

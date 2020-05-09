@@ -1,0 +1,1 @@
+export const mediaPauseCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.91' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M144.11 159.98h72v192h-72zm152 .04h72v192h-72z'/>"]

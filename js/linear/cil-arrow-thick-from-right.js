@@ -1,0 +1,1 @@
+export const cilArrowThickFromRight = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M254.625,56H215.9927L16,256.1973,216.0024,456H254.625V336h144V176h-144Zm112,152v96h-144V417.3838l-161.37-161.21L222.625,94.6387V208Z' class='cls-1'/>  <rect width='32' height='400' x='462.625' y='56' class='cls-1'/>"]

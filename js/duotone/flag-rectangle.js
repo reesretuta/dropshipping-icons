@@ -1,0 +1,1 @@
+export const flagRectangle = ["512 512","  <path fill='currentColor' d='M88 72h360v272H88z'/>  <path fill='currentColor' d='M40 16v480h48V16H40z' opacity='.25'/>"]

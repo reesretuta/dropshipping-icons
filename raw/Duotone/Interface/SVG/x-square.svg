@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>x-square</title>
+  <rect class="cls-1" x="32" y="32" width="448" height="448" rx="24"/>
+  <polygon class="cls-2" points="135.126 342.933 169.067 376.874 256 289.941 343.029 376.971 376.971 343.029 289.941 256 376.874 169.067 342.933 135.126 256 222.059 168.971 135.029 135.029 168.971 222.059 256 135.126 342.933"/>
+</svg>

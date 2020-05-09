@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>highligt</title>
+  <g>
+    <path class="cls-1" d="M104,305.498l88,48V480H320V353.498l88-48V160H104ZM136,192H376v94.502l-88,48V448H224V334.502l-88-48Z"/>
+    <rect class="cls-1" x="240" y="32" width="32" height="72"/>
+    <rect class="cls-1" x="82.5439" y="50.5441" width="32" height="72.0003" transform="translate(-32.3331 95.0299) rotate(-45.0003)"/>
+    <rect class="cls-1" x="377.4559" y="70.5442" width="72.0003" height="32" transform="translate(59.8975 317.6982) rotate(-44.9988)"/>
+  </g>
+</svg>

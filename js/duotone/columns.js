@@ -1,0 +1,1 @@
+export const columns = ["512 512","  <rect width='480' height='439.75' x='16' y='32.25' fill='currentColor' opacity='.25' rx='29'/>  <path fill='currentColor' d='M277 165.25h177V430H277zm-219 0h177V430H58z'/>"]

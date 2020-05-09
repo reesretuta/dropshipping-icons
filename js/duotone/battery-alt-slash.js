@@ -1,0 +1,1 @@
+export const batteryAltSlash = ["512 512","  <path fill='currentColor' d='M316.57 235.6L424 343.03V88H168.78l147.79 147.6zM16 88v336h378.58l-336-336H16z' opacity='.25'/>  <path fill='currentColor' d='M432.97 352h63.02V160H424v183.03l8.97 8.97zM45.71 16H16v29.42L58.58 88l336 336 72 72H496v-29.54L45.71 16z'/>  <path fill='#fff' d='M424 352h8.97l-8.97-8.97V352z'/>"]

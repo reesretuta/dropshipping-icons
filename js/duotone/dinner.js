@@ -1,0 +1,1 @@
+export const dinner = ["512 512","  <path fill='currentColor' d='M464 328.063c0-103.81-76.447-190.1-176-205.537V64h-64v58.526C124.447 137.964 48 224.252 48 328.063v33.107h416z'/>  <path fill='currentColor' d='M16 400h480v64H16z' opacity='.25'/>"]

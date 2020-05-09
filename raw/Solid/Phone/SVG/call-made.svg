@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>call-made</title>
+  <polygon class="cls-1" points="400 285.921 400 110.961 224 110.961 224 158.961 319.098 158.961 119.029 359.029 152.971 392.971 352 193.941 352 285.921 400 285.921"/>
+</svg>

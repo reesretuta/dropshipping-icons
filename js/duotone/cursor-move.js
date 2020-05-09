@@ -1,0 +1,1 @@
+export const cursorMove = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M351 238h-77v-67h51.318l-69-85-69 85H238v67h-77v-50.682l-85 69.001 85 68.999V274h77v67h-50.682l69 85 69-85H274v-67h77v51.318l85-68.999-85-69.001V238z'/>"]

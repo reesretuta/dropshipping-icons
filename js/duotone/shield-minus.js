@@ -1,0 +1,1 @@
+export const shieldMinus = ["512 512","  <path fill='currentColor' d='M272 16h-32C167.27 78.07 24 96 24 96c0 154.47 43.2 348.51 232 400 188.8-51.49 232-245.53 232-400 0 0-143.27-17.93-216-80z' opacity='.25'/>  <path fill='currentColor' d='M168 230h176v36H168z'/>"]

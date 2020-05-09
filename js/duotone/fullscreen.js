@@ -1,0 +1,1 @@
+export const fullscreen = ["512 512","  <path fill='currentColor' d='M224 80V16H16v208h64v-98.75l117.37 117.38 45.26-45.26L125.25 80H224z'/>  <path fill='currentColor' d='M432 288v98.75L310.63 265.37l-45.26 45.26L386.75 432H288v64h208V288h-64z' opacity='.25'/>"]

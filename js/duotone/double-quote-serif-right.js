@@ -1,0 +1,1 @@
+export const doubleQuoteSerifRight = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M420 67H313a24 24 0 00-24 24v107a24 24 0 0024 24h71v20.333L290 336.6V377h39.533L444 262.533V91a24 24 0 00-24-24zm-221 0H92a24 24 0 00-24 24v107a24 24 0 0024 24h70v20.333L68 336.6V377h40.533L223 262.533V91a24 24 0 00-24-24z'/>"]

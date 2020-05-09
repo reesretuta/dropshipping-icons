@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>vertical-align-bottom</title>
+  <rect class="cls-1" x="16" y="432" width="480" height="64"/>
+  <polygon class="cls-2" points="352 296 352 289.354 288 289.64 288 16 224 16 224 289.925 160 290.21 160 296 256 408 352 296"/>
+</svg>

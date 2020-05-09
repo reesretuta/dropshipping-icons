@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>pageview</title>
+  <rect class="cls-1" x="16" y="80" width="480" height="368"/>
+  <path class="cls-2" d="M239.8613,337.7227a97.2841,97.2841,0,0,0,53.3638-15.8706l66.8755,66.8754,25.4551-25.455L319.27,296.9866a97.8287,97.8287,0,1,0-79.4085,40.7361Zm0-159.7227A61.8614,61.8614,0,1,1,178,239.8613,61.9316,61.9316,0,0,1,239.8613,178Z"/>
+</svg>

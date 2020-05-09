@@ -1,0 +1,1 @@
+export const energyCircle = ["512 512","  <circle cx='256' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M280 120L136 288h96v104l144-168h-96V120z'/>"]

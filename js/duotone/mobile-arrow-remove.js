@@ -1,0 +1,1 @@
+export const mobileArrowRemove = ["512 512","  <path fill='currentColor' d='M368 88v280H96v88a40.045 40.045 0 0040 40h240a40.045 40.045 0 0040-40V56a40.045 40.045 0 00-40-40H136a40.045 40.045 0 00-40 40v32zm-94 326v36h-36v-36z'/>  <path fill='currentColor' d='M240 312v-48h-67.77l108.276-102.577-33.012-34.846L136 232.203V168H88v144h152z' opacity='.25'/>"]

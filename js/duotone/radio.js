@@ -1,0 +1,1 @@
+export const radio = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M56 136v-19.13l379.33-53.1-6.66-47.54L16.33 73.96V230H104v-38h48v38h344v-94H56z' class='cls-1'/>  <path fill='currentColor' d='M16.33 266H496v230H16.33z' opacity='.25'/>  <circle cx='360' cy='376' r='72' class='cls-1'/>"]

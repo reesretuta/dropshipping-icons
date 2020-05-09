@@ -1,0 +1,1 @@
+export const archive = ["512 512","  <path fill='currentColor' d='M48 16h416v70H48z' opacity='.25'/>  <path fill='currentColor' d='M324 168H188l-23-46H48v164h416V122H347l-23 46zm-4 208H192l-27-54H48v174h416V322H347l-27 54z'/>"]

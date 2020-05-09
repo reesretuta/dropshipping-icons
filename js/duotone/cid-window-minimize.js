@@ -1,0 +1,1 @@
+export const cidWindowMinimize = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <rect width='324' height='48' x='94' y='376' fill='currentColor'/>"]

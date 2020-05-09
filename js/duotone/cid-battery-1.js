@@ -1,0 +1,1 @@
+export const cidBattery1 = ["512 512","  <polygon fill='currentColor' points='424 160 424 88 16 88 16 424 424 424 424 352 495.99 352 495.99 160 424 160' opacity='.25'/>  <rect width='112' height='336' x='16' y='88' fill='currentColor'/>"]

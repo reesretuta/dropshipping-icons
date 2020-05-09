@@ -1,0 +1,1 @@
+export const screenSmartphone = ["512 512","  <rect width='304' height='480' x='104' y='16' fill='currentColor' opacity='.25' rx='32'/>  <path fill='currentColor' d='M192 70h128v36H192zm44 330h40v40h-40z'/>"]

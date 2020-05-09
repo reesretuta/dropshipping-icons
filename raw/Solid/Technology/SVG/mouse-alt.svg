@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>mouse-alt</title>
+  <path class="cls-1" d="M208,35.7646a96,96,0,0,0-96,96V332.2354a144,144,0,0,0,144,144h0a144,144,0,0,0,144-144V131.7646a96,96,0,0,0-96-96ZM277,213.647H235V95.6641h42Z"/>
+</svg>

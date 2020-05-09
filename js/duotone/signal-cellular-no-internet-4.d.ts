@@ -1,0 +1,1 @@
+export declare const signalCellularNoInternet4: string[];

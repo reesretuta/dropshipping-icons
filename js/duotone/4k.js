@@ -1,0 +1,1 @@
+export const n4k = ["512 512","  <rect width='480' height='480' x='16' y='16' fill='currentColor' opacity='.25' rx='32'/>  <path fill='currentColor' d='M216 184h-48v80h-45.48l12.8-128H87.08l-17.6 176H168v64h48v-64h40v-48h-40v-80zm230.83-48h-53.66l-48 96H328v-96h-48v240h48v-96h17.17l48 96h53.66l-60-120 60-120z'/>"]

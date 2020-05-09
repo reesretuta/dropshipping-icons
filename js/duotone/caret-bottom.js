@@ -1,0 +1,1 @@
+export const caretBottom = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M101 181.9l155.078 175.16L411 183.137V160H101v21.9z'/>"]

@@ -1,0 +1,1 @@
+export const cisInbox = ["512 512","  <path fill='currentColor' d='M480,16H32V495.998H480ZM360,312l-48,72H192l-40-72H80V144H432V312Z'/>"]

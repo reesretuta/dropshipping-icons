@@ -1,0 +1,1 @@
+export const boxAlt = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M40 496h432a24.027 24.027 0 0024-24V173H352v63.085H160V173H16v299a24.027 24.027 0 0024 24z' class='cls-1'/>  <path d='M496 40a24.027 24.027 0 00-24-24H40a24.027 24.027 0 00-24 24v91h480z' class='cls-1' opacity='.25'/>"]

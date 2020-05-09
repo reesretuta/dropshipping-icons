@@ -1,0 +1,1 @@
+export const boltCircle = ["512 512","  <circle cx='256' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M344 136H192l-48 144h79.2L192 384h32l152-160h-85.78L344 136z'/>"]

@@ -1,0 +1,1 @@
+export const cidMediaStepForwardSquare = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='480' height='480' x='16' y='16' fill='currentColor' opacity='.25'/>  <rect width='36' height='248' x='350' y='136' class='cls-2'/>  <polygon points='144 152 144 368 160 368 288 264 288 256 160 152 144 152' class='cls-2'/>"]

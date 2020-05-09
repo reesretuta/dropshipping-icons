@@ -1,0 +1,1 @@
+export const screenLockVertical = ["512 512","  <rect width='336' height='480' x='88' y='16' fill='currentColor' opacity='.25' rx='16'/>  <path fill='currentColor' d='M256 367.935a84.095 84.095 0 0084-84v-53.148h-25.5v-28.472a60.25 60.25 0 00-120.5 0v28.472h-22v53.149a84.095 84.095 0 0084 84zm-26-165.62a24.25 24.25 0 0148.5 0v26.472H230z'/>"]

@@ -1,0 +1,1 @@
+export const mediaStopSquare = ["512 512","  <path fill='currentColor' d='M16 16h480v480H16z' opacity='.25'/>  <path fill='currentColor' d='M144 144h224v224H144z'/>"]

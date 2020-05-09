@@ -1,0 +1,1 @@
+export const mail = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M260.731 272.69L480 111.892V82H32v29.892L251.269 272.69a7.969 7.969 0 009.462 0z' class='cls-2' opacity='.25'/>  <path d='M256 306.276a39.926 39.926 0 01-23.655-7.782L32 151.574V434h448V151.574l-200.345 146.92A39.932 39.932 0 01256 306.276z' class='cls-2'/>"]

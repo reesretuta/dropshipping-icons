@@ -1,0 +1,1 @@
+export const meh = ["512 512","  <path fill='currentColor' d='M342.3 32a240.738 240.738 0 00-172.6 0C79.794 66.661 16 153.875 16 256a240 240 0 10480 0c0-102.125-63.794-189.339-153.7-224z' opacity='.25'/>  <path fill='currentColor' d='M168 318h176v36H168zm-20-122h48v48h-48zm168 0h48v48h-48z'/>"]

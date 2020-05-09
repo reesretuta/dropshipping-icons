@@ -1,0 +1,1 @@
+export const textRotationUp = ["512 512","  <path fill='currentColor' d='M344 386.65l-48-18.947V240.297l48-18.947v-68.805L56 266.229v75.543l288 113.683zm-112-44.21L134.62 304 232 265.56z'/>  <path fill='currentColor' d='M336 119.915v5.76h59V472h42V125.675h59.572v-5.018L415.916 40 336 119.915z' opacity='.25'/>"]

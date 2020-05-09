@@ -1,0 +1,1 @@
+export const ethernetAlt = ["512 512","  <path fill='currentColor' d='M136 32h240v67H136z' opacity='.25'/>  <path fill='currentColor' d='M277 141v107h-42V141h-99v187h96v168h48V328h96V141h-99z'/>"]

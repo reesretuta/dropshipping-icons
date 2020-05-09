@@ -1,0 +1,19 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>calendar-view-day</title>
+  <g>
+    <path class="cls-1" d="M16,448a24.0275,24.0275,0,0,0,24,24H472a24.0275,24.0275,0,0,0,24-24V384H16Z"/>
+    <path class="cls-1" d="M496,112a24.0275,24.0275,0,0,0-24-24H400V16H336V88H176V16H112V88H40a24.0275,24.0275,0,0,0-24,24v72H496Z"/>
+    <polygon class="cls-2" points="496 232 16 232 0 232 0 336 16 336 496 336 512 336 512 232 496 232"/>
+  </g>
+</svg>

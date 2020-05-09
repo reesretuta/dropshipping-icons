@@ -1,0 +1,1 @@
+export const cilFont = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M192.0538,331H319.9462l24.0789,61H402.08L290.3691,109H221.6309L109.92,392h58.055ZM256,169.0029,298.63,277H213.37Z' class='cls-1'/>  <path d='M16,16V496H496V16ZM464,464H48V48H464Z' class='cls-1'/>"]

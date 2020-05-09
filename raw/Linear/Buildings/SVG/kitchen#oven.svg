@@ -1,0 +1,18 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>kitchen#oven</title>
+  <rect class="cls-1" x="120" y="112" width="32" height="32"/>
+  <g>
+    <path class="cls-1" d="M424,56H88A32.0364,32.0364,0,0,0,56,88V464a32.0364,32.0364,0,0,0,32,32H424a32.0364,32.0364,0,0,0,32-32V88A32.0364,32.0364,0,0,0,424,56ZM88,88H424l.0043,80H88ZM424,464H88V200H424.0061l.0144,263.999Z"/>
+    <path class="cls-1" d="M120,432H392V248H120Zm32-152H360V400H152Z"/>
+    <rect class="cls-1" x="184" y="112" width="32" height="32"/>
+    <rect class="cls-1" x="248" y="112" width="32" height="32"/>
+    <rect class="cls-1" x="360" y="112" width="32" height="32"/>
+  </g>
+</svg>

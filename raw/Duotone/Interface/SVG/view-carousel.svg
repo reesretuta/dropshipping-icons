@@ -1,0 +1,22 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-2 {
+        fill:currentColor;
+      }
+    </style>
+  </defs>
+  <title>view-carousel</title>
+  <g class="cls-1">
+    <rect class="cls-2" x="32" y="32" width="448" height="448" rx="24"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="166" y="102" width="180" height="308" rx="19"/>
+    <rect class="cls-2" x="64" y="154" width="77" height="204" rx="18.9922"/>
+    <path class="cls-2" d="M390.0918,154.0166h39.0146a18.9766,18.9766,0,0,1,18.9766,18.9766V339.0078a18.9756,18.9756,0,0,1-18.9756,18.9756H390.0918a18.9756,18.9756,0,0,1-18.9756-18.9756V172.9922A18.9756,18.9756,0,0,1,390.0918,154.0166Z"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+export const cidColumns = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='480' height='439.75' x='16' y='32.25' fill='currentColor' opacity='.25' rx='29'/>  <rect width='177' height='264.75' x='277' y='165.25' class='cls-2'/>  <rect width='177' height='264.75' x='58' y='165.25' class='cls-2'/>"]

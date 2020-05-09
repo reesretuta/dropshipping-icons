@@ -1,0 +1,1 @@
+export const cisViewStream = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='480' height='174' x='16' y='64' class='cls-1'/>  <rect width='480' height='174' x='16' y='274' class='cls-1'/>"]

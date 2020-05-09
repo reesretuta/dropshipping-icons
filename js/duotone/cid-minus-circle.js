@@ -1,0 +1,1 @@
+export const cidMinusCircle = ["512 512","  <path fill='currentColor' d='M425.7056,86.2939A240,240,0,0,0,86.2944,425.7061,240,240,0,0,0,425.7056,86.2939Z' opacity='.25'/>  <rect width='256' height='48' x='128' y='232' fill='currentColor'/>"]

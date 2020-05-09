@@ -1,0 +1,1 @@
+export const cidWindowMaximize = ["512 512","  <path fill='currentColor' d='M496,149.74V72a24.0275,24.0275,0,0,0-24-24H40.335a24.0275,24.0275,0,0,0-24,24v77.74Z'/>  <path fill='currentColor' d='M16.335,185.74V456a24.0275,24.0275,0,0,0,24,24H472a24.0275,24.0275,0,0,0,24-24V185.74Z' opacity='.25'/>"]

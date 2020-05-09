@@ -1,0 +1,1 @@
+export const filterFrames = ["512 512","  <path fill='currentColor' d='M440 16H72a32.036 32.036 0 00-32 32v348.117a32.036 32.036 0 0032 32h109.49l74.51 74.51 74.51-74.51H440a32.036 32.036 0 0032-32V48a32.036 32.036 0 00-32-32z' opacity='.25'/>  <path fill='currentColor' d='M144 120h224v204.118H144z'/>"]

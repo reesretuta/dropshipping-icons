@@ -1,0 +1,1 @@
+export const cilRoom = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M440,424V88H352V13.0049L88,58.5225V424H16v32h86.9033L352,490.3584V120h56V456h88V424ZM320,453.6416,120,426.0557V85.4775L320,50.9951Z' class='cls-1'/>  <rect width='32' height='64' x='256' y='232' class='cls-1'/>"]

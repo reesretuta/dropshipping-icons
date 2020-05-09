@@ -1,0 +1,1 @@
+export const cisExpandDown = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='480' height='64' x='16' y='8' class='cls-1'/>  <rect width='480' height='128' x='16' y='376' class='cls-1'/>  <polygon points='416 112 96 112 96 149.86 255.923 319.224 416 151.921 416 112' class='cls-1'/>"]

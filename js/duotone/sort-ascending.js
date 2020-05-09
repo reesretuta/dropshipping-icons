@@ -1,0 +1,1 @@
+export const sortAscending = ["512 512","  <path fill='currentColor' d='M184 168h120v48H184zm0 80h184v48H184zm0 80h248v48H184zm0 80h312v48H184z'/>  <path fill='currentColor' d='M226 120.471L121.529 16l-24 24h-.333v.333L16.089 121.44V128h81.107v368h48V128H226v-7.529z' opacity='.25'/>"]

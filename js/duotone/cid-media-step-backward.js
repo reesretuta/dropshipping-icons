@@ -1,0 +1,1 @@
+export const cidMediaStepBackward = ["512 512","  <path fill='currentColor' d='M387.24,105.59,192.68,249.7a8,8,0,0,0,0,12.86L387.24,406.68A8,8,0,0,0,400,400.25V112A8,8,0,0,0,387.24,105.59Z'/>  <rect width='48' height='304' x='96' y='104' fill='currentColor' opacity='.25'/>"]

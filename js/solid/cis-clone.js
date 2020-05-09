@@ -1,0 +1,1 @@
+export const cisClone = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M339,451H61V173h43V131H48a29.0328,29.0328,0,0,0-29,29V464a29.0331,29.0331,0,0,0,29,29H352a29.0331,29.0331,0,0,0,29-29V408H339Z' class='cls-1'/>  <rect width='360' height='360' x='136' y='16' class='cls-1' rx='24' ry='24'/>"]

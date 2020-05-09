@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>building-slash</title>
+  <g>
+    <path class="cls-1" d="M424,343.0292V32H112.7007ZM328,96h40v40H328Zm0,96h40v40H328Zm-52-56H236V96h40Z"/>
+    <path class="cls-1" d="M45.709,16H16V45.4219l72,72V448H16v48H496V466.4568ZM184,328H144V288h40Zm0-96H144V192h18.5781L184,213.4221Zm90,216H238V384h36Zm2-120H236V288h22.5781L276,305.4222Z"/>
+  </g>
+</svg>

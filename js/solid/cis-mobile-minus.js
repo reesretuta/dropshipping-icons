@@ -1,0 +1,1 @@
+export const cisMobileMinus = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='160' height='48' x='287.83' y='209.022' class='cls-1'/>  <path d='M120,88H392V56a40.0455,40.0455,0,0,0-40-40H112A40.0455,40.0455,0,0,0,72,56V456a40.0455,40.0455,0,0,0,40,40H352a40.0455,40.0455,0,0,0,40-40V368H120Zm94,326h36v36H214Z' class='cls-1'/>"]

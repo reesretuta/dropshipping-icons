@@ -1,0 +1,1 @@
+export const vote = ["512 512","  <path fill='currentColor' d='M414.884 299l-42 42H451v110H61V328H19v165h474V299h-78.116z' opacity='.25'/>  <path fill='currentColor' d='M307.487 347l6-6 42-42L472 182.487 308.043 18.53 72.618 253.956 165.663 347h141.824zM88 389v32h336v-42H88v10z'/>"]

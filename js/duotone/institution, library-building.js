@@ -1,0 +1,1 @@
+export const institution, libraryBuilding = ["512 512","  <path fill='currentColor' d='M488 128L248 24 24 128v40h464v-40zM16 416h480v80H16z'/>  <path fill='currentColor' d='M40 208h64v168H40zm368 0h64v168h-64zm-248 0h64v168h-64zm128 0h64v168h-64z' opacity='.25'/>"]

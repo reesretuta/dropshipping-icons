@@ -1,0 +1,1 @@
+export const listFilter = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M59 103h394v42H59zm50 88h294v42H109zm50 89h194v42H159zm50 88h94v42h-94z'/>"]

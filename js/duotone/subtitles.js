@@ -1,0 +1,1 @@
+export const subtitles = ["512 512","  <rect width='480' height='384' x='16' y='64' fill='currentColor' opacity='.25' rx='16'/>  <path fill='currentColor' d='M200 184h208v48H200zm-96 0h56v48h-56zm248 96h56v48h-56zm-248 0h208v48H104z'/>"]

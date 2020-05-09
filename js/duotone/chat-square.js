@@ -1,0 +1,1 @@
+export const chatSquare = ["512 512","  <path fill='currentColor' d='M191.917 140.09h144.166v-108a16 16 0 00-16-16H32a16 16 0 00-16 16V336h24l53.333-96h46.584v-47.91a52.059 52.059 0 0152-52z' opacity='.25'/>  <path fill='currentColor' d='M480 176.09H191.917a16 16 0 00-16 16V384a16 16 0 0016 16H416l56 96h24V192.09a16 16 0 00-16-16z'/>"]

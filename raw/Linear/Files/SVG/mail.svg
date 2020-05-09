@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>mail</title>
+  <path class="cls-1" d="M16,66V450H496V66ZM48,98H464v16L256,270,48,114ZM464,418H48V154L236.8,295.6a32.1627,32.1627,0,0,0,38.3994,0L464,154Z"/>
+</svg>

@@ -1,0 +1,1 @@
+export const plusOne = ["512 512","  <path fill='currentColor' d='M160 184H96v56H40v64h56v56h64v-56h56v-64h-56v-56z' opacity='.25'/>  <path fill='currentColor' d='M408 360V80h-60.45l-105.17 96.41 43.24 47.18L344 170.08V360h-80v64h216v-64h-72z'/>"]

@@ -1,0 +1,1 @@
+export const arrowCircleLeft = ["512 512","  <circle cx='256' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M276.149 343.518l-66.519-66.519H385V235H209.631l66.518-66.518-29.699-29.698L129.234 256 246.45 373.217l29.699-29.699z'/>"]

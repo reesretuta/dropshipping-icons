@@ -1,0 +1,1 @@
+export const justifyCenter = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M59 103h394v42H59zm0 88h394v42H59zm0 89h394v42H59zm66 88h262v42H125z'/>"]

@@ -1,0 +1,1 @@
+export const cisViewAgenda = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='480' height='176' x='16' y='56' class='cls-1' rx='24' ry='24'/>  <rect width='480' height='176' x='16' y='280' class='cls-1' rx='24' ry='24'/>"]

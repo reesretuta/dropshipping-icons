@@ -1,0 +1,1 @@
+export const mug = ["512 512","  <path fill='currentColor' d='M328 64H32v344a48 48 0 0048 48h200a48 48 0 0048-48V64z'/>  <path fill='currentColor' d='M428.575 120H328v60h80a4 4 0 014 4v136a4 4 0 01-4 4h-80v60h100.575A43.426 43.426 0 00472 340.575v-177.15A43.426 43.426 0 00428.575 120z' opacity='.25'/>"]

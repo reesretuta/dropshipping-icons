@@ -1,0 +1,1 @@
+export const accountLogout = ["512 512","  <path fill='currentColor' d='M352 304V200H176v-88L13.997 252.802 176 384v-80h176z'/>  <path fill='currentColor' d='M474 16H246c-12.336 0-22 10.542-22 24v120h168v184H224v128c0 13.458 9.664 24 22 24h228c12.336 0 22-10.542 22-24V40c0-13.458-9.664-24-22-24z' opacity='.25'/>"]

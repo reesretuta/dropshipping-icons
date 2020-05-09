@@ -1,0 +1,1 @@
+export const mediaStepForwardCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.92' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M334 168h36v184h-36zm-174 0v184h11.33L288 263.41v-13.63L171.33 168H160z'/>"]

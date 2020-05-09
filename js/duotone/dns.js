@@ -1,0 +1,1 @@
+export const dns = ["512 512","  <defs>    <style>      .cls-1,.cls-2{fill:currentColor}.cls-1{opacity:.25}    </style>  </defs>  <path d='M15.934 272h480v160h-480z' class='cls-1'/>  <path d='M71.934 328h48v48h-48z' class='cls-2'/>  <path fill='none' d='M72 328h48v48H72z'/>  <path d='M15.934 72h480v160h-480z' class='cls-1'/>  <path d='M71.934 128h48v48h-48z' class='cls-2'/>"]

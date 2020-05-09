@@ -1,0 +1,21 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        opacity: 0.25;
+      }
+
+      .cls-2, .cls-3 {
+        fill:currentColor;
+      }
+    </style>
+  </defs>
+  <title>train</title>
+  <g class="cls-1">
+    <polygon class="cls-2" points="396.603 431.454 343.638 431.454 393.226 496 446.19 496 396.603 431.454"/>
+    <polygon class="cls-2" points="65.81 496 118.774 496 168.362 431.454 115.397 431.454 65.81 496"/>
+  </g>
+  <path class="cls-2" d="M48,272V431.4541H464V272Zm296,40a32,32,0,1,1-32,32A32,32,0,0,1,344,312Zm-176,0a32,32,0,1,1-32,32A32,32,0,0,1,168,312Z"/>
+  <path class="cls-3" d="M416,16H96A48.0547,48.0547,0,0,0,48,64V240H464V64A48.0547,48.0547,0,0,0,416,16Z"/>
+  <rect class="cls-2" x="192" y="88" width="128" height="32"/>
+</svg>

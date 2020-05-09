@@ -1,0 +1,1 @@
+export const chevronSquareLeftAlt = ["512 512","  <path fill='currentColor' d='M456 16H56a40.045 40.045 0 00-40 40v400a40.045 40.045 0 0040 40h400a40.045 40.045 0 0040-40V56a40.045 40.045 0 00-40-40zm-24 416H80V80h352z' opacity='.25'/>  <path fill='currentColor' d='M317.6 328.8L260 252l57.6-76.8-51.2-38.4L180 252l86.4 115.2 51.2-38.4z'/>"]

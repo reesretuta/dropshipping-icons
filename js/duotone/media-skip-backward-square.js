@@ -1,0 +1,1 @@
+export const mediaSkipBackwardSquare = ["512 512","  <path fill='currentColor' d='M16 16h480v480H16z' opacity='.25'/>  <path fill='currentColor' d='M240 256V152h-16L96 256v8l128 104h16V264l128 104h16V152h-16L240 256z'/>"]

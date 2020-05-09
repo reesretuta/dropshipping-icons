@@ -1,0 +1,1 @@
+export const mediaEjectSquare = ["512 512","  <path fill='currentColor' d='M16 16h480v480H16z' opacity='.25'/>  <path fill='currentColor' d='M136 320h240v72H136zm0-72h248v-16L264 104h-16L136 232v16z'/>"]

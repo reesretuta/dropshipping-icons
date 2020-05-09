@@ -1,0 +1,1 @@
+export const cisMediaRecordSquare = ["512 512","  <path fill='currentColor' d='M16,496H496V16H16ZM144,256a112,112,0,0,1,224,0v0a112,112,0,0,1-224,0Z'/>"]

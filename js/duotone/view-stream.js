@@ -1,0 +1,1 @@
+export const viewStream = ["512 512","  <rect width='448' height='448' x='32' y='32' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M135 270H64v140h384V270H135zm2-168H64v140h384V102H137z'/>"]

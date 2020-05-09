@@ -1,0 +1,1 @@
+export const plusCircle = ["512 512","  <path fill='currentColor' d='M256 16A240 240 0 0086.294 425.706 240 240 0 00425.706 86.294 238.43 238.43 0 00256 16z' opacity='.25'/>  <path fill='currentColor' d='M232 384h48V280h104v-48H280V128h-48v104H128v48h104v104z'/>"]

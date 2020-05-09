@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>bed</title>
+  <g>
+    <path class="cls-1" d="M432,231.3812H216V350H496V295.3812A64,64,0,0,0,432,231.3812Z"/>
+    <path class="cls-1" d="M184,294.9982a71.617,71.617,0,0,0-71.6169-71.617H64V152H16V350H184Z"/>
+    <polygon class="cls-1" points="16 496 64 496 64 440 448 440 448 496 496 496 496 386 16 386 16 496"/>
+  </g>
+</svg>

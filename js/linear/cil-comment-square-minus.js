@@ -1,0 +1,1 @@
+export const cilCommentSquareMinus = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M472,16H40A24.0275,24.0275,0,0,0,16,40V344a24.0275,24.0275,0,0,0,24,24H379.249l69.522,128H496V40A24.0275,24.0275,0,0,0,472,16Zm-8,440.9922L398.2842,336H48V48H464Z' class='cls-1'/>  <rect width='176' height='32' x='168' y='176' class='cls-1'/>"]

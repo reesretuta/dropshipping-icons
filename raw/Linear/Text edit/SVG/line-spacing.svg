@@ -1,0 +1,17 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>line-spacing</title>
+  <g>
+    <rect class="cls-1" x="240" y="48" width="256" height="32"/>
+    <rect class="cls-1" x="240" y="176" width="256" height="32"/>
+    <rect class="cls-1" x="240" y="304" width="256" height="32"/>
+    <rect class="cls-1" x="240" y="432" width="256" height="32"/>
+    <path class="cls-1" d="M24,113.9111V144H95.1963V368H24v30.19l88.9365,97.7276L200,398.0889V368H127.1963V144H200V113.81L111.0635,16.082ZM112.6709,448.082,68.9141,400h86.5478ZM155.0859,112H68.5381l42.791-48.082Z"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+export const cisMediaPlaySquare = ["512 512","  <path fill='currentColor' d='M16,496H496V16H16ZM176.9307,128H200L352,252,200,376H176.9307Z'/>"]

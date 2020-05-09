@@ -1,0 +1,1 @@
+export const spreadsheet = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M16 60h480v392H16z' class='cls-2' opacity='.25'/>  <path d='M224 114h216v36H224zm0 240h216v36H224zm0-80h216v36H224zM72 114h104v36H72zm152 80h216v36H224zM72 354h104v36H72zm0-80h104v36H72zm0-80h104v36H72z' class='cls-2'/>"]

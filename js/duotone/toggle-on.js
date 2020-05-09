@@ -1,0 +1,1 @@
+export const toggleOn = ["512 512","  <path fill='currentColor' d='M368 128H144a128 128 0 000 256h224a128 128 0 000-256z' opacity='.25'/>  <circle cx='368' cy='256' r='64' fill='currentColor'/>"]

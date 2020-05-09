@@ -1,0 +1,1 @@
+export const cisStore = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M68.9121,96,16,237.0986V272H48V496H296V320H400V496h64V272h32V237.0986L443.0879,96ZM232,272V416H112V264H232Z' class='cls-1'/>  <rect width='368' height='48' x='72' y='16' class='cls-1'/>"]

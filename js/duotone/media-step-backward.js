@@ -1,0 +1,1 @@
+export const mediaStepBackward = ["512 512","  <path fill='currentColor' d='M387.24 105.59L192.68 249.7a8 8 0 000 12.86l194.56 144.12a8 8 0 0012.76-6.43V112a8 8 0 00-12.76-6.41z'/>  <path fill='currentColor' d='M96 104h48v304H96z' opacity='.25'/>"]

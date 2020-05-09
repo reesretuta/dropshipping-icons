@@ -1,0 +1,1 @@
+export const room = ["512 512","  <path fill='currentColor' d='M416 416V80H316v48h52v336h128v-48h-80z' opacity='.25'/>  <path fill='currentColor' d='M48 64v392l232 32V24zm186 240h-36v-80h36z'/>"]

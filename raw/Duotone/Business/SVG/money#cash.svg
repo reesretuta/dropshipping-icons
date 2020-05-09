@@ -1,0 +1,19 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>money#cash</title>
+  <polygon class="cls-1" points="448 400 96 400 96 448 496 448 496 144 448 144 448 400"/>
+  <rect class="cls-2" x="32" y="80" width="384" height="288"/>
+  <rect class="cls-1" x="334" y="136" width="36" height="176"/>
+  <ellipse class="cls-1" cx="224" cy="224.1339" rx="56" ry="62.3262"/>
+  <rect class="cls-1" x="78" y="136" width="36" height="176"/>
+</svg>

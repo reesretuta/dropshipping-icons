@@ -1,0 +1,1 @@
+export const videoSwitch = ["512 512","  <path fill='currentColor' d='M480 128l-120 49.09V72H16v368h344V326.91L480 376h16V128h-16z' opacity='.25'/>  <path fill='currentColor' d='M136 274.42l104-.27V328l88-72-88-72v54.15l-104 .27V184l-88 72 88 72v-53.58z'/>"]

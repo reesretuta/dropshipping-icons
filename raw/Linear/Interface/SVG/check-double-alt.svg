@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>check-double-alt</title>
+  <g>
+    <polygon class="cls-1" points="388.686 108.687 159.641 337.731 42.943 228.327 21.057 251.673 160.359 382.269 411.314 131.313 388.686 108.687"/>
+    <rect class="cls-1" x="198.2944" y="240.0003" width="339.4113" height="31.9993" transform="translate(-73.2346 335.196) rotate(-45)"/>
+  </g>
+</svg>

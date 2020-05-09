@@ -1,0 +1,1 @@
+export const cisCartArrowDown = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <circle cx='176' cy='432' r='64' class='cls-1'/>  <circle cx='400' cy='432' r='64' class='cls-1'/>  <path d='M129.6644,96,116.3311,16H16V64H75.6689L117,336H448l48-120V96ZM376.5723,207.343,295.9154,288,216,208.0847v-5.76h56V152h48v50.3252h56.5723Z' class='cls-1'/>"]

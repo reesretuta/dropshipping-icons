@@ -1,0 +1,1 @@
+export const cisMic = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='192' height='312' x='160' y='16' class='cls-1' rx='96'/>  <path d='M392,176v56c0,74.99-61.0093,136-136,136S120,306.99,120,232V176H72v56c0,93.3248,69.8409,170.6384,160,182.4351V496h48V414.4351C370.1591,402.6384,440,325.3248,440,232V176Z' class='cls-1'/>"]

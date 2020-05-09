@@ -1,0 +1,1 @@
+export const spaceBar = ["512 512","  <path fill='currentColor' d='M32 32h448v448H32z' opacity='.25'/>  <path fill='currentColor' d='M384 365H128v-66H80v114h352V299h-48v66z'/>"]

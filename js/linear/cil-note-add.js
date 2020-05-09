@@ -1,0 +1,1 @@
+export const cilNoteAdd = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M24,24V496H318.6274L496,318.627V24ZM56,56H464V272H272V464H56ZM305.3726,464H304V304H464v1.373Z' class='cls-1'/>  <polygon points='208 288 208 208 288 208 288 176 208 176 208 96 176 96 176 176 96 176 96 208 176 208 176 288 208 288' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const wrapText = ["512 512","  <path fill='currentColor' d='M16 224h160v48H16zm0 160h392v48H16z' opacity='.25'/>  <path fill='currentColor' d='M400 64H16v48h384c26.467 0 48 25.121 48 56s-21.533 56-48 56h-55.196v-78.208L197.865 249.087l146.94 100.372V272H400c52.935 0 96-46.654 96-104S452.935 64 400 64z'/>"]

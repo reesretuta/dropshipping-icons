@@ -1,0 +1,1 @@
+export const cidPregnant = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M288,208l-24-56H184L160,320v80H376V328C376,240,336,216,288,208Z' class='cls-1'/>  <circle cx='224' cy='72' r='48' class='cls-1'/>  <rect width='64' height='96' x='224' y='400' fill='currentColor' opacity='.25'/>"]

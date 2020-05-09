@@ -1,0 +1,1 @@
+export const cilMediaStepForward = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M328.84,236.58,134.29,92.46A24,24,0,0,0,96,111.75V400a24,24,0,0,0,38.29,19.28L328.84,275.15h0a24,24,0,0,0,0-38.57ZM128,384.1V127.63L301.12,255.87Z' class='cls-1'/>  <rect width='32' height='336' x='384' y='88' class='cls-1'/>"]

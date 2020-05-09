@@ -1,0 +1,1 @@
+export const cidMobileLandscape = ["512 512","  <rect width='304' height='224' x='104' y='144' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M456,96H56a40.0455,40.0455,0,0,0-40,40V376a40.0455,40.0455,0,0,0,40,40H456a40.0455,40.0455,0,0,0,40-40V136A40.0455,40.0455,0,0,0,456,96ZM408,368H104V144H408Z'/>"]

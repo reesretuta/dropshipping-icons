@@ -1,0 +1,1 @@
+export const coffee = ["512 512","  <path fill='currentColor' d='M16 408h480v48H16z' opacity='.25'/>  <path fill='currentColor' d='M175.5 376h97A119.635 119.635 0 00392 256.5V248h32a80 80 0 000-160H56v168.5A119.635 119.635 0 00175.5 376zM392 136h32a32 32 0 010 64h-32z'/>"]

@@ -1,0 +1,1 @@
+export const cidScreenSmartphone = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='304' height='480' x='104' y='16' fill='currentColor' opacity='.25' rx='32'/>  <rect width='128' height='36' x='192' y='70' class='cls-2'/>  <rect width='40' height='40' x='236' y='400' class='cls-2'/>"]

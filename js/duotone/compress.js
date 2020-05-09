@@ -1,0 +1,1 @@
+export const compress = ["512 512","  <path fill='currentColor' d='M128 128H16v64h176V16h-64v112zm256 0V16h-64v176h176v-64H384z'/>  <path fill='currentColor' d='M320 496h64V384h112v-64H320v176zM16 384h112v112h64V320H16v64z' opacity='.25'/>"]

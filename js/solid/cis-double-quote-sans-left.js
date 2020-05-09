@@ -1,0 +1,1 @@
+export const cisDoubleQuoteSansLeft = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='32 400 48 400 216 240 216 32 32 32 32 400' class='cls-1'/>  <polygon points='296 32 296 400 312 400 480 240 480 32 296 32' class='cls-1'/>"]

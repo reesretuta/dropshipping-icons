@@ -1,0 +1,14 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>text-rotation-up</title>
+  <g>
+    <path class="cls-1" d="M37,338.3691,320,450.08V392.0253l-61-24.079V240.0537l61-24.079V157.92L37,269.6309Zm168-77v85.261L97.0029,304Z"/>
+    <polygon class="cls-1" points="408 25.373 324.687 108.687 347.313 131.313 392 86.627 392 136 392 464 424 464 424 86.627 468.687 131.313 491.313 108.687 408 25.373"/>
+  </g>
+</svg>

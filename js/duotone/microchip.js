@@ -1,0 +1,1 @@
+export const microchip = ["512 512","  <path fill='currentColor' d='M360 75h64v42h-64zm0 80h64v42h-64zm0 80h64v42h-64zm0 80h64v42h-64zm0 80h64v42h-64zM88 75h64v42H88zm0 80h64v42H88zm0 80h64v42H88zm0 80h64v42H88zm0 80h64v42H88z'/>  <path fill='currentColor' d='M152 16v480h208V16H152z' opacity='.25'/>"]

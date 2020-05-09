@@ -1,0 +1,1 @@
+export const store = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M72 16h368v48H72z' class='cls-1'/>  <path fill='currentColor' d='M461.088 144l-18-48H68.912l-18 48L16 224.099V272h480v-47.901L461.088 144z' opacity='.25'/>  <path d='M16 224.099V272h32v224h248V320h104v176h64V272h32v-47.901zM232 416H112V272h120z' class='cls-1'/>"]

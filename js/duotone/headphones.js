@@ -1,0 +1,1 @@
+export const headphones = ["512 512","  <path fill='currentColor' d='M432 192c0-97-78.95-176-176-176S80 95 80 192v232h64V192a112 112 0 01224 0v232h64z' opacity='.25'/>  <path fill='currentColor' d='M48 232a32 32 0 00-32 32v128a32 32 0 0032 32h32V232zm416 192a32 32 0 0032-32V264a32 32 0 00-32-32h-32v192z'/>"]

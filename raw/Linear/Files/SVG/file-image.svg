@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>file-image</title>
+  <g>
+    <path class="cls-1" d="M333.627,16H47V496H471V153.3726ZM439,166.6274V168H319V48h1.373ZM79,464V48H287V200H439V464Z"/>
+    <rect class="cls-1" x="119" y="216" width="32" height="32"/>
+    <path class="cls-1" d="M256.1875,298.56,199,241.3726l-88,88V432H367V328.6411l-71.6484-61.4126ZM335,400H143V342.6274l56-56L253.8125,341.44l40.8359-32.6684L335,343.3589Z"/>
+  </g>
+</svg>

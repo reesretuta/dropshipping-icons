@@ -1,0 +1,19 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>list-filter</title>
+  <rect class="cls-1" x="32" y="32" width="448" height="448"/>
+  <rect class="cls-2" x="59" y="103" width="394" height="42"/>
+  <rect class="cls-2" x="109" y="191" width="294" height="42"/>
+  <rect class="cls-2" x="159" y="280" width="194" height="42"/>
+  <rect class="cls-2" x="209" y="368" width="94" height="42"/>
+</svg>

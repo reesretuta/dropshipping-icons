@@ -1,0 +1,1 @@
+export const cisDns = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M16,72V232H496V72ZM120,176H72V128h48Z' class='cls-1'/>  <path d='M16,432H496V272H16ZM72,328h48v48H72Z' class='cls-1'/>"]

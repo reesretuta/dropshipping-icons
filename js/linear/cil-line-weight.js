@@ -1,0 +1,1 @@
+export const cilLineWeight = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='480' height='32' x='16' y='464' class='cls-1'/>  <path d='M16,432H496V352H16Zm32-48H464v16H48Z' class='cls-1'/>  <path d='M16,320H496V208H16Zm32-80H464v48H48Z' class='cls-1'/>  <path d='M16,16V176H496V16ZM464,144H48V48H464Z' class='cls-1'/>"]

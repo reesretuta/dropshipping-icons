@@ -1,0 +1,1 @@
+export const folder = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M472 127H16v320a24 24 0 0024 24h432a24 24 0 0024-24V151a24 24 0 00-24-24z' class='cls-2' opacity='.25'/>  <path d='M207.365 40H39a23 23 0 00-23 23v64h242.948l-30.352-72.846A23 23 0 00207.365 40z' class='cls-2'/>"]

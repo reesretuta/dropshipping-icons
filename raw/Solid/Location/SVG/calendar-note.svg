@@ -1,0 +1,11 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>calendar-note</title>
+  <path class="cls-1" d="M40,472H472a24.0275,24.0275,0,0,0,24-24V112a24.0275,24.0275,0,0,0-24-24H400V16H336V88H176V16H112V88H40a24.0275,24.0275,0,0,0-24,24V448A24.0275,24.0275,0,0,0,40,472ZM96,174H416v36H96Zm0,96H416v36H96Zm0,96H256v36H96Z"/>
+</svg>

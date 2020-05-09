@@ -1,0 +1,19 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>paw#animal</title>
+  <path class="cls-1" d="M369.6882,325.6277A120.1534,120.1534,0,0,0,254.6021,240h0A120.1538,120.1538,0,0,0,140.614,322.1577L116.08,395.7614C102.2655,437.2034,133.1116,480,176.7952,480H329.9821a64,64,0,0,0,61.3009-82.39Z"/>
+  <ellipse class="cls-2" cx="77.8713" cy="227.425" rx="58.2326" ry="71.6709" transform="translate(-103.28 69.4051) rotate(-30.0001)"/>
+  <ellipse class="cls-2" cx="434.1287" cy="227.425" rx="71.6709" ry="58.2326" transform="translate(20.1084 489.6789) rotate(-60)"/>
+  <ellipse class="cls-2" cx="183.1357" cy="119.1312" rx="58.2326" ry="71.6709" transform="translate(-21.126 41.6193) rotate(-12.2639)"/>
+  <ellipse class="cls-2" cx="328.8643" cy="119.1312" rx="71.6709" ry="58.2326" transform="translate(142.5952 415.1849) rotate(-77.7359)"/>
+</svg>

@@ -1,0 +1,1 @@
+export declare const wifiSignalLock1: string[];

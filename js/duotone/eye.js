@@ -1,0 +1,1 @@
+export const eye = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M397.22 130.86l-.22-.22c-77.75-77.75-204.25-77.75-282 0L16 233.55v28.9l98.78 102.69.22.22a199.63 199.63 0 00282 0l99-102.91v-28.9z' class='cls-2' opacity='.25'/>  <path d='M256 140a108 108 0 10108 108 108 108 0 00-108-108z' class='cls-2'/>"]

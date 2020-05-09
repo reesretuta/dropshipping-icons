@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor}
+    </style>
+  </defs>
+  <polygon points="456.78 16 16 456.78 16 496 416 496 416 464 54.034 464 464 54.034 464 200 496 200 496 16 456.78 16" class="cls-1"/>
+  <rect width="32" height="184" x="448" y="248" class="cls-1"/>
+  <polygon points="448 464 448 496 480 496 480 464 464 464 448 464" class="cls-1"/>
+</svg>

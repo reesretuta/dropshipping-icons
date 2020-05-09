@@ -1,0 +1,1 @@
+export const golf = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <circle cx='424' cy='288' r='40' class='cls-1'/>  <path d='M170 36.68V16h-36v400h36V172.32L312 120v-16.8L170 36.68z' class='cls-1'/>  <ellipse cx='232' cy='408' fill='currentColor' opacity='.25' rx='216' ry='88'/>"]

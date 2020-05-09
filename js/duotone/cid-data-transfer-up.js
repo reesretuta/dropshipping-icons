@@ -1,0 +1,1 @@
+export const cidDataTransferUp = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='480' height='64' x='16' y='16' class='cls-2' opacity='.25'/>  <polygon points='105.372 265.373 150.628 310.627 216 245.255 216 496 280 496 280 245.255 345.372 310.627 390.628 265.373 248 122.745 105.372 265.373' class='cls-2'/>"]

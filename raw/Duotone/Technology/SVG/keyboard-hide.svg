@@ -1,0 +1,33 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>keyboard-hide</title>
+  <polygon class="cls-1" points="255.833 471.762 335.362 392.234 176.305 392.234 255.833 471.762"/>
+  <rect class="cls-2" x="15.834" y="72" width="480" height="288" rx="24"/>
+  <g>
+    <rect class="cls-1" x="415.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="199.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="159.8335" y="196" width="40" height="40"/>
+    <rect class="cls-1" x="71.8335" y="272" width="40" height="40"/>
+    <rect class="cls-1" x="271.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="55.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="127.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="87.8335" y="196" width="40" height="40"/>
+    <rect class="cls-1" x="343.8335" y="120" width="40" height="40"/>
+    <rect class="cls-1" x="335.8335" y="272" width="40" height="40"/>
+    <rect class="cls-1" x="235.8335" y="196" width="40" height="40"/>
+    <rect class="cls-1" x="143.834" y="274" width="160" height="36"/>
+    <rect class="cls-1" x="407.8335" y="272" width="40" height="40"/>
+    <rect class="cls-1" x="311.8335" y="196" width="40" height="40"/>
+    <rect class="cls-1" x="383.8335" y="196" width="40" height="40"/>
+  </g>
+</svg>

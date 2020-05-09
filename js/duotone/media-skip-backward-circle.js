@@ -1,0 +1,1 @@
+export const mediaSkipBackwardCircle = ["512 512","  <rect width='478.17' height='478.17' x='16.91' y='16.91' fill='currentColor' opacity='.25' rx='239.08'/>  <path fill='currentColor' d='M240 255.66l.02-88h-11.33L112 256.22v13.63l116.65 81.8 11.33.01.02-80 119.98 80.02h8l.04-184h-8L240 255.66z'/>"]

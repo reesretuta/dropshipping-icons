@@ -1,0 +1,22 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>building-business</title>
+  <g>
+    <path class="cls-1" d="M312,16H16V496H496V144H312ZM280,144V464H176V400H144v64H48V48H280Zm184,32V464H312V176Z"/>
+    <rect class="cls-1" x="104" y="304" width="32" height="32"/>
+    <rect class="cls-1" x="184" y="304" width="32" height="32"/>
+    <rect class="cls-1" x="376" y="216" width="32" height="32"/>
+    <rect class="cls-1" x="376" y="296" width="32" height="32"/>
+    <rect class="cls-1" x="376" y="376" width="32" height="32"/>
+    <rect class="cls-1" x="104" y="208" width="32" height="32"/>
+    <rect class="cls-1" x="184" y="208" width="32" height="32"/>
+    <rect class="cls-1" x="104" y="112" width="32" height="32"/>
+    <rect class="cls-1" x="184" y="112" width="32" height="32"/>
+  </g>
+</svg>

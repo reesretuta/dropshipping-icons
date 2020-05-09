@@ -1,0 +1,1 @@
+export const featuredVideo = ["512 512","  <path fill='currentColor' d='M480 64H32a16 16 0 00-16 16v352a16 16 0 0016 16h448a16 16 0 0016-16V80a16 16 0 00-16-16zM184 293V164.08l99.17 59.5z' opacity='.25'/>  <path fill='currentColor' d='M80 130v198h288V130zm104 163V164.08l99.17 59.5z'/>"]

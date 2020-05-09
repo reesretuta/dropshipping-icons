@@ -1,0 +1,1 @@
+export const terminal = ["512 512","  <rect width='480' height='440' x='16' y='40' fill='currentColor' opacity='.25' rx='24'/>  <path fill='currentColor' d='M113.843 296.051l86.446-96.098-86.454-96.013-35.67 32.12 57.546 63.909-57.554 63.98 35.686 32.102zM240 248h144v48H240z'/>"]

@@ -1,0 +1,1 @@
+export const cardMembership = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M160 496h37.311l58.578-44.074L313.808 496H352V368H160v128z' class='cls-1'/>  <path fill='currentColor' d='M472 16H40a24 24 0 00-24 24v304a24 24 0 0024 24h432a24 24 0 0024-24V40a24 24 0 00-24-24z' opacity='.25'/>  <path d='M16 96h480v64H16z' class='cls-1'/>"]

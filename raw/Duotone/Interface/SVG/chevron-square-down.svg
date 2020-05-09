@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>chevron-square-down</title>
+  <rect class="cls-1" x="32" y="32" width="448" height="448" rx="24"/>
+  <polygon class="cls-2" points="255.973 255.946 160.027 160 104 216.027 255.973 368 406.545 217.428 350.519 161.401 255.973 255.946"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>videogame</title>
+  <rect class="cls-1" x="16" y="104" width="480" height="272"/>
+  <rect class="cls-2" x="320" y="256" width="48" height="48"/>
+  <rect class="cls-2" x="392" y="176" width="48" height="48"/>
+  <polygon class="cls-2" points="112 304 160 304 160 264 200 264 200 216 160 216 160 176 112 176 112 216 72 216 72 264 112 264 112 304"/>
+</svg>

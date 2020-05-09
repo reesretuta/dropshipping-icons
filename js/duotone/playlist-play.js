@@ -1,0 +1,1 @@
+export const playlistPlay = ["512 512","  <path fill='currentColor' d='M64 304h216v48H64zm0-104h344v48H64zm0-104h344v48H64z' opacity='.25'/>  <path fill='currentColor' d='M328 284v156l120-84-120-72z'/>"]

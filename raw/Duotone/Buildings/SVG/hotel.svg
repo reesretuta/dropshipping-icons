@@ -1,0 +1,32 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>hotel</title>
+  <rect class="cls-1" x="160" y="32" width="192" height="192"/>
+  <polygon class="cls-2" points="278 110 234 110 234 64 198 64 198 192 234 192 234 146 278 146 278 192 314 192 314 64 278 64 278 110"/>
+  <rect class="cls-3" x="332" y="382" width="36" height="66"/>
+  <polygon class="cls-1" points="432 448 405 448 368 448 332 448 117 448 80 448 16 448 16 496 80 496 432 496 496 496 496 448 432 448"/>
+  <path class="cls-2" d="M352,96V224H160V96H80V448H332V382h36v66h64V96Z"/>
+  <rect class="cls-4" x="148" y="354" width="36" height="36"/>
+  <rect class="cls-4" x="148" y="282" width="36" height="36"/>
+  <rect class="cls-4" x="239" y="354" width="36" height="36"/>
+  <rect class="cls-4" x="239" y="282" width="36" height="36"/>
+  <rect class="cls-4" x="332" y="282" width="36" height="36"/>
+</svg>

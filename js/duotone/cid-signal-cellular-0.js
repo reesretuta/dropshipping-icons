@@ -1,0 +1,1 @@
+export const cidSignalCellular0 = ["512 512","  <path fill='currentColor' d='M16,496H496V16H446.0591L16,446.0586Z' opacity='.25'/>"]

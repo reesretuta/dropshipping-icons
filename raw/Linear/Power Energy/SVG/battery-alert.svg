@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>battery-alert</title>
+  <g>
+    <path class="cls-1" d="M432,176V119.59A23.8248,23.8248,0,0,0,408,96H240v32H400v80h64V312H400v80H47.9863V128H112V96H39.9863a23.8248,23.8248,0,0,0-24,23.59V400.41a23.8248,23.8248,0,0,0,24,23.59H408a23.8248,23.8248,0,0,0,24-23.59V344h64V176Z"/>
+    <polygon class="cls-1" points="192 64 192 56 160 56 160 64 160 256 192 256 192 64"/>
+    <polygon class="cls-1" points="192 304 192 288 160 288 160 304 160 320 192 320 192 304"/>
+  </g>
+</svg>

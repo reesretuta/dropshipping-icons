@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>alarm-on</title>
+  <g>
+    <path class="cls-1" d="M256,80C141.1248,80,48,173.1248,48,288s93.1248,208,208,208,208-93.1248,208-208S370.8752,80,256,80ZM237.5479,367.85,157,287.3013l29.6982-29.6983,50.85,50.8491L337,209l29.6982,29.6982Z"/>
+    <rect class="cls-1" x="16.7654" y="55.9999" width="166.4692" height="48.0002" transform="translate(-27.8314 72.3109) rotate(-35.2176)"/>
+    <rect class="cls-1" x="387.9999" y="-3.2346" width="48.0002" height="166.4692" transform="translate(109.0511 370.4582) rotate(-54.7828)"/>
+  </g>
+</svg>

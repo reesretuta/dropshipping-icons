@@ -1,0 +1,1 @@
+export const doubleQuoteSansLeft = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M32 32h448v448H32z' class='cls-2' opacity='.25'/>  <path d='M68 377h13.478L223 242.652V68H68v309zm221 0h13.478L444 242.652V68H289v309z' class='cls-2'/>"]

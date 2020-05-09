@@ -1,0 +1,1 @@
+export const commentSquare = ["512 512","  <path fill='currentColor' d='M32 56v424h21.711l69.522-128H456a24 24 0 0024-24V56a24 24 0 00-24-24H56a24 24 0 00-24 24z' opacity='.25'/>  <circle cx='348' cy='332' r='68' fill='currentColor'/>"]

@@ -1,0 +1,1 @@
+export const textHeight = ["512 512","  <path fill='currentColor' d='M11 152h42v-35h67v270H80v42h160v-42h-40V117h67v35h42V75H11v77z'/>  <path fill='currentColor' d='M504.572 160v-5.76l-79.915-79.915L344 154.982V160h59v186.325h-59v5.76L423.916 432l80.656-80.657v-5.018H445V160h59.572z' opacity='.25'/>"]

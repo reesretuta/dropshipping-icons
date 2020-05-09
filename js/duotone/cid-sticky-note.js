@@ -1,0 +1,1 @@
+export const cidStickyNote = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <polygon points='306 480 312 480 480 312 480 306 306 306 306 480' class='cls-1'/>  <polygon points='480 270 480 40 40 40 40 480 270 480 270 270 480 270' class='cls-1' opacity='.25'/>"]

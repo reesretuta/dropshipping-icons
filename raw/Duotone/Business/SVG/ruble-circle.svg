@@ -1,0 +1,17 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>ruble-circle</title>
+  <circle class="cls-1" cx="254" cy="256" r="240"/>
+  <polygon class="cls-2" points="146 360 194.421 360 194.421 408 242.421 408 242.421 360 306 360 306 320 146 320 146 360"/>
+  <path class="cls-2" d="M292.8252,104H146v48h48.4209v88H146v40H301.041c45.8916,0,84.1094-36.4189,84.9434-82.3035q.0234-1.2769.0117-2.562C385.5273,144.47,343.4917,104,292.8252,104ZM294,240H242.4209V152H294a44,44,0,0,1,0,88Z"/>
+</svg>

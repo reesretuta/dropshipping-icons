@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill:currentColor;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <title>room</title>
+  <polygon class="cls-1" points="416 416 416 80 316 80 316 128 368 128 368 464 496 464 496 416 416 416"/>
+  <path class="cls-2" d="M48,64V456l232,32V24ZM234,304H198V224h36Z"/>
+</svg>

@@ -1,0 +1,1 @@
+export const cisCoffee = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='480' height='48' x='16' y='408' class='cls-1'/>  <path d='M175.5,376h97A119.6352,119.6352,0,0,0,392,256.5V248h32a80,80,0,0,0,0-160H56V256.5A119.6352,119.6352,0,0,0,175.5,376ZM392,136h32a32,32,0,0,1,0,64H392Z' class='cls-1'/>"]

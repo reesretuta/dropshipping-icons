@@ -1,0 +1,1 @@
+export const videoPlus = ["512 512","  <path fill='currentColor' d='M480 128l-120 49.09V72H16v368h344V326.91L480 376h16V128h-16z' opacity='.25'/>  <path fill='currentColor' d='M164 352h48v-76h76v-48h-76v-76h-48v76H88v48h76v76z'/>"]

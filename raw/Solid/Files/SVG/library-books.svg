@@ -1,0 +1,13 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>library-books</title>
+  <path class="cls-1" d="M64,168H24V472a16,16,0,0,0,16,16H344V448H64Z"/>
+  <path class="cls-1" d="M136,376V96H96V400a16,16,0,0,0,16,16H416V376Z"/>
+  <path class="cls-1" d="M168,40V328a16,16,0,0,0,16,16H472a15.987,15.987,0,0,0,15.9634-15.2731c.0108-.2427.0366-.4815.0366-.7269V40a16,16,0,0,0-16-16H184a16.0167,16.0167,0,0,0-16,16Zm56,124H440v36H224ZM360,280H224V244H360ZM440,84v36H224V84Z"/>
+</svg>

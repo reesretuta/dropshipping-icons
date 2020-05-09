@@ -1,0 +1,1 @@
+export const minusCircle = ["512 512","  <path fill='currentColor' d='M425.706 86.294A240 240 0 0086.294 425.706 240 240 0 00425.706 86.294z' opacity='.25'/>  <path fill='currentColor' d='M128 232h256v48H128z'/>"]

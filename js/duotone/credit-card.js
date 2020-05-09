@@ -1,0 +1,1 @@
+export const creditCard = ["512 512","  <path fill='currentColor' d='M472 72H40a24 24 0 00-24 24v320a24 24 0 0024 24h432a24 24 0 0024-24V96a24 24 0 00-24-24z' opacity='.25'/>  <path fill='currentColor' d='M176 304h40v40h-40zm-88 0h40v40H88zM16 152h480v64H16z'/>"]

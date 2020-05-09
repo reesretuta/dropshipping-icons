@@ -1,0 +1,1 @@
+export const britishPoundCircle = ["512 512","  <circle cx='254' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M344 336h-96v-56h64v-48h-64v-52.258c0-14.552 11.022-27.05 25.534-28.128A27.603 27.603 0 01303.295 179h48c0-42.352-35.451-76.633-78.423-75.098C232.038 105.361 200 139.577 200 180.437V232h-40v48h40v56h-40v48h184z'/>"]

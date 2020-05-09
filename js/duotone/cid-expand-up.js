@@ -1,0 +1,1 @@
+export const cidExpandUp = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor;opacity:.25}    </style>  </defs>  <rect width='480' height='64' x='16' y='443' class='cls-1'/>  <rect width='480' height='128' x='16' y='11' class='cls-1'/>  <polygon fill='currentColor' points='256.077 195.777 96 363.079 96 403 416 403 416 365.14 256.077 195.777'/>"]

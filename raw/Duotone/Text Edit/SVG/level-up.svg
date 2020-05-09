@@ -1,0 +1,18 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-2 {
+        fill:currentColor;
+      }
+    </style>
+  </defs>
+  <title>level-up</title>
+  <g class="cls-1">
+    <rect class="cls-2" x="32" y="32" width="448" height="448"/>
+  </g>
+  <polygon class="cls-2" points="163.029 171.029 196.971 204.971 240 161.941 240 332 114 332 114 380 288 380 288 161.941 331.029 204.971 364.971 171.029 264 70.059 163.029 171.029"/>
+</svg>

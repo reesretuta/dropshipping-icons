@@ -1,0 +1,16 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>alarm-snooze</title>
+  <g>
+    <path class="cls-1" d="M256,84C141.1248,84,48,177.1248,48,292s93.1248,208,208,208,208-93.1248,208-208S370.8752,84,256,84ZM380.4507,416.4508A176,176,0,1,1,432,292,174.8478,174.8478,0,0,1,380.4507,416.4508Z"/>
+    <rect class="cls-1" x="15.9131" y="63.9997" width="184.1738" height="32.0005" transform="translate(-26.3079 74.9613) rotate(-34.3803)"/>
+    <rect class="cls-1" x="387.9997" y="-12.0869" width="32.0005" height="184.1738" transform="translate(109.8416 368.2479) rotate(-55.6194)"/>
+    <polygon class="cls-1" points="192 236 293.04 236 184 336.732 184 380 328 380 328 348 218.96 348 328 247.268 328 204 192 204 192 236"/>
+  </g>
+</svg>

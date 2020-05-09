@@ -1,0 +1,1 @@
+export const grid = ["512 512","  <rect width='427' height='427' x='43' y='43' fill='currentColor' opacity='.25' rx='21'/>  <path fill='currentColor' d='M213 213h86v86h-86zm128 128h86v86h-86zm0-128h86v86h-86zm0-128h86v86h-86zm-128 0h86v86h-86zm0 256h86v86h-86zM85 213h86v86H85zm0 128h86v86H85zm0-256h86v86H85z'/>"]

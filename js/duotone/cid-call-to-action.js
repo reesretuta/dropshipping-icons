@@ -1,0 +1,1 @@
+export const cidCallToAction = ["512 512","  <rect width='480' height='432' x='16' y='40' fill='currentColor' opacity='.25' rx='24'/>  <rect width='304' height='64' x='104' y='312' fill='currentColor'/>"]

@@ -1,0 +1,1 @@
+export const dollarCircle = ["512 512","  <circle cx='256' cy='256' r='240' fill='currentColor' opacity='.25'/>  <path fill='currentColor' d='M292 232h-80a28 28 0 010-56h132v-48h-64.32V80h-48v48H212a76 76 0 000 152h80a28 28 0 010 56H160v48h71.68v48h48v-48H292a76 76 0 000-152z'/>"]

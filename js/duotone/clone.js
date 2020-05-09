@@ -1,0 +1,1 @@
+export const clone = ["512 512","  <path fill='currentColor' d='M339 451H61V173h43v-42H48a29.033 29.033 0 00-29 29v304a29.033 29.033 0 0029 29h304a29.033 29.033 0 0029-29v-56h-42z' opacity='.25'/>  <rect width='360' height='360' x='136' y='16' fill='currentColor' rx='24'/>"]

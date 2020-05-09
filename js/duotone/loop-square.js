@@ -1,0 +1,1 @@
+export const loopSquare = ["512 512","  <path fill='currentColor' d='M128 104h256v88h-64l88 112 88-112h-64V56H80v120h48v-72z'/>  <path fill='currentColor' d='M384 408H128v-80h64l-88-117.2L16 328h64v128h352V336h-48v72z' opacity='.25'/>"]

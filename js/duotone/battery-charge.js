@@ -1,0 +1,1 @@
+export const batteryCharge = ["512 512","  <path fill='currentColor' d='M424 160V88H16v336h408v-72h71.99V160H424z' opacity='.25'/>  <path fill='currentColor' d='M193.37 368h50.6l45.33-136h-63.24l28.54-79.93-.2-.07h-50.74l-45.72 128h64.76l-29.33 88z'/>"]

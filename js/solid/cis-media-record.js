@@ -1,0 +1,1 @@
+export const cisMediaRecord = ["512 512","  <rect width='336' height='336' x='88' y='88' fill='currentColor' rx='168'/>"]

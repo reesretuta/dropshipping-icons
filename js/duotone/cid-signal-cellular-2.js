@@ -1,0 +1,1 @@
+export const cidSignalCellular2 = ["512 512","  <path fill='currentColor' d='M16,496H496V16H446.0591L16,446.0586Z' opacity='.25'/>  <polygon fill='currentColor' points='16 446.059 16 496 288 496 288 174.059 16 446.059'/>"]

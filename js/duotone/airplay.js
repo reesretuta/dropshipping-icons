@@ -1,0 +1,1 @@
+export const airplay = ["512 512","  <path fill='currentColor' d='M480 51.5H32a16 16 0 00-16 16v320a16 16 0 0016 16h101l94.58-121.6L256 245.36l28.42 36.54L379 403.5h101a16 16 0 0016-16v-320a16 16 0 00-16-16z' opacity='.25'/>  <path fill='currentColor' d='M106.66 496h298.68L256 304 106.66 496z'/>"]

@@ -1,0 +1,1 @@
+export const shortText = ["512 512","  <path fill='currentColor' d='M64 104h384v312H64z' opacity='.25'/>  <path fill='currentColor' d='M128 187h256v42H128zm0 112h128v42H128z'/>"]

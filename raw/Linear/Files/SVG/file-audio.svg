@@ -1,0 +1,15 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>file-audio</title>
+  <g>
+    <path class="cls-1" d="M334.6274,16H48V496H472V153.3726ZM440,166.6274V168H320V48h1.3726ZM80,464V48H288V200H440V464Z"/>
+    <path class="cls-1" d="M296,280v32a16,16,0,0,1,0,32v32a48,48,0,0,0,0-96Z"/>
+    <path class="cls-1" d="M183.5508,274.2856H129.1426V381.7144h54.4082L236.4077,416H264V240H236.4077ZM232,374.9985l-38.9795-25.2841H161.1426V306.2856h31.8779L232,281.0015Z"/>
+  </g>
+</svg>

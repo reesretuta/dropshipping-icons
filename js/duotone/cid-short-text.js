@@ -1,0 +1,1 @@
+export const cidShortText = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <rect width='384' height='312' x='64' y='104' fill='currentColor' opacity='.25'/>  <rect width='256' height='42' x='128' y='187' class='cls-2'/>  <rect width='128' height='42' x='128' y='299' class='cls-2'/>"]

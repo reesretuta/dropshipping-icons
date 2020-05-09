@@ -1,0 +1,1 @@
+export const cisViewColumn = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <rect width='134' height='384' x='362' y='64' class='cls-1'/>  <rect width='134' height='384' x='16' y='64' class='cls-1'/>  <rect width='140' height='384' x='186' y='64' class='cls-1'/>"]

@@ -1,0 +1,1 @@
+export const wallpaper = ["512 512","  <path fill='currentColor' d='M80 328H32v152h152v-48H80V328zm352 104H328v48h152V328h-48v104zM80 80h104V32H32v152h48V80zm248-48v48h104v104h48V32H328z' opacity='.25'/>  <path fill='currentColor' d='M336 128h48v48h-48zm56 264V272.271l-50.154-50.153-68.905 67.764-64.821-65.078-88.12 88.12V392h272z'/>"]

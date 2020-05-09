@@ -1,0 +1,1 @@
+export const cilDoor = ["512 512","  <defs>    <style>      .cls-1{fill:currentColor}    </style>  </defs>  <path d='M400,464V64H112V464H16v32H496V464Zm-32,0H144V96H368Z' class='cls-1'/>  <rect width='32' height='72' x='312' y='252' class='cls-1'/>"]

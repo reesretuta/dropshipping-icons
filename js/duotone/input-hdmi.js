@@ -1,0 +1,1 @@
+export const inputHdmi = ["512 512","  <defs>    <style>      .cls-2{fill:currentColor}    </style>  </defs>  <path d='M128 16v104h256V16H128z' class='cls-2' opacity='.25'/>  <path d='M80 160v96.105L168 409v87h176v-87l88-152.895V160H80zm86-96h36v56h-36zm72 0h36v56h-36zm72 0h36v56h-36z' class='cls-2'/>"]

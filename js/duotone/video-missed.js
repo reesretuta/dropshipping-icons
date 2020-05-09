@@ -1,0 +1,1 @@
+export const videoMissed = ["512 512","  <path fill='currentColor' d='M360 177.09V72H16v368h344V326.91L480 376h16V128h-16l-120 49.09z' opacity='.25'/>  <path fill='currentColor' d='M200.5 336.96l108.23-108.23-25.46-25.46-83.77 83.77-61.64-56.9L176 192H72v104l40.38-40.38 88.12 81.34z'/>"]

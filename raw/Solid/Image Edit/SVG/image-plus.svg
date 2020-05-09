@@ -1,0 +1,12 @@
+<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <title>image-plus</title>
+  <path class="cls-1" d="M448,391.8575V192H406v54.3077L351.6921,192h-.9228l-51.3134,51.3134L406,349.8575v50.9117l-240-240-108,108V106H328V64H16V480h0v16H448Z"/>
+  <polygon class="cls-1" points="407 24 407 63 368 63 368 105 407 105 407 144 449 144 449 105 488 105 488 63 449 63 449 24 407 24"/>
+</svg>
